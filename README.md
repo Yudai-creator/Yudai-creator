@@ -7,7 +7,7 @@ Love learning new technologies and languages, can't stop, won't stop.
 
 > "Keep moving forward"
 
-![header](https://unsplash.com/photos/m_HRfLhgABo)
+
 
 
 <!--
