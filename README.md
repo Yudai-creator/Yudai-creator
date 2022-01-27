@@ -7,6 +7,7 @@ Love learning new technologies and languages, can't stop, won't stop.
 
 > "Keep moving forward"
 
+![banner](https://github.com/Yudai-creator/Yudai-creator/blob/master/BANNER%20TWITTER.png)
 
 
 
