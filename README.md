@@ -8,6 +8,8 @@
 
 Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-creator/Yudai-creator/blob/master/bx-down-arrow-alt.svg)
 
+![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/js.png)
+
 
 ##
 
