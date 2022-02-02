@@ -15,9 +15,15 @@ https://github.com/Yudai-creator/Yudai-creator/blob/master/netlify.png)
 
 ##
 
-> "Keep moving forward"
+### I'm documenting my learning and sharing my journey over Twitter as [@creator_yudai](https://twitter.com/creator_yudai)
+
+# Reached mmore than 1k connections 💙
+
 
 ![banner](https://github.com/Yudai-creator/Yudai-creator/blob/master/BANNER%20TWITTER.png)
+
+> "Keep moving forward"
+
 
 
 
