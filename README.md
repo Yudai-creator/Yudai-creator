@@ -6,7 +6,7 @@
 
 ### Love learning new technologies and languages, can't stop, won't stop.
 
-Technologies and Languages I use most 
+Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-creator/Yudai-creator/blob/master/bx-down-arrow-alt.svg)
 
 > "Keep moving forward"
 
