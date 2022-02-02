@@ -12,6 +12,8 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 
 ![banner](https://github.com/Yudai-creator/Yudai-creator/blob/master/BANNER%20TWITTER.png)
 
+![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/javascript-js-seeklogo.com.svg)
+
 
 
 <!--
