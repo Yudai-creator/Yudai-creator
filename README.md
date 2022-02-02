@@ -4,7 +4,9 @@
 
 ##
 
-Love learning new technologies and languages, can't stop, won't stop.
+### Love learning new technologies and languages, can't stop, won't stop.
+
+Technologies and Languages I use most 
 
 > "Keep moving forward"
 
