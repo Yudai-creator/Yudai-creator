@@ -13,7 +13,7 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 
 ##
 
-### I'm documenting my learning and sharing my journey over Twitter as [@creator_yudai](https://twitter.com/creator_yudai)
+### I document my learning and share my journey on tech over Twitter as [@creator_yudai](https://twitter.com/creator_yudai)
 
 # Reached more than 1k connections 💙
 
