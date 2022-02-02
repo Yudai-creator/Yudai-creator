@@ -8,7 +8,9 @@
 
 Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-creator/Yudai-creator/blob/master/bx-down-arrow-alt.svg)
 
-![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/js.png)
+![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/js.png)![sass](
+https://github.com/Yudai-creator/Yudai-creator/blob/master/sass.png)![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/vue.png)![nuxt](https://github.com/Yudai-creator/Yudai-creator/blob/master/nuxt.png)![netlify](
+https://github.com/Yudai-creator/Yudai-creator/blob/master/netlify.png)
 
 
 ##
