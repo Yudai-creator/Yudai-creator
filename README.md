@@ -1,5 +1,7 @@
 ### Hi there everyone, Yudai here 👋
 
+![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/HI%20there%20banner.gif)
+
 I'm a web developer, breaking into UI/UX design, currently living in Cuba. Passionate about animations on the web, love creating little animations to increase users experience. Love designing UIs, lets me develop my creativiy. I build my projects using the JAMStack, with Nuxt and SASS on board, yes I like doing my own CSS 😁, I'm a 
 CSS evangelist.
 
