@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: If there is one thing I&#39;d go back in time and tell myself - it&#39;s to prioritize my studies more!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6170d9b68dd6ce2c4177d148933c46a)
+- [@creator_yudai: If you want to enter to field of Fronted Development, start by doing projects.It will teach you a lot and will give you actual experiences that you can showcase.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d616069b66dd6ce7c21273108338cd66)
+- [@creator_yudai: What&#39;s the coolest thing you did this year? Please, share below, and if you have a link - drop it as well 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6160a9063dd6ce1c51b7a158f39c067)
 - [@creator_yudai: Check this free 3D icon pack.They can be used in many ways to enrich your UIsI mean is the bomb 💥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0a9b61dd61e2c211781c893bc761)
 - [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0a9069d06de3c21a7b138c38c46b)
-- [@creator_yudai: Don&#39;t focus on problems. Focus on solutions 🛠](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0e9566d369e8c41b78178f39c265)
-- [@creator_yudai: Twitter Video Challenge 🤩You wanna talk in twitter spaces, but you are shy 🙈 Do videos, record yourself, improve confidence, today I was able to see my progress 🚀Day 1️⃣9️⃣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0e9067d161e9c41a79168f3ec760)
-- [@creator_yudai: Download free UI templates from this site ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0f9360d06ae1c3117c118d3fc766)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
