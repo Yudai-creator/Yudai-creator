@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Must read!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6120e9462d461e9c4167d108e3dc667)
+- [@creator_yudai: Set your reminders for this Space, is going to be awesome 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6100c9a69d36fe3c41b7b128333c562)
 - [@creator_yudai: If there is one thing I&#39;d go back in time and tell myself - it&#39;s to prioritize my studies more!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6170d9b68dd6ce2c4177d148933c46a)
 - [@creator_yudai: If you want to enter to field of Fronted Development, start by doing projects.It will teach you a lot and will give you actual experiences that you can showcase.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d616069b66dd6ce7c21273108338cd66)
 - [@creator_yudai: What&#39;s the coolest thing you did this year? Please, share below, and if you have a link - drop it as well 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6160a9063dd6ce1c51b7a158f39c067)
-- [@creator_yudai: Check this free 3D icon pack.They can be used in many ways to enrich your UIsI mean is the bomb 💥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0a9b61dd61e2c211781c893bc761)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d71d0a9069d06de3c21a7b138c38c46b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
