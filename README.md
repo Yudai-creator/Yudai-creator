@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Must read!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6120e9462d461e9c4167d108e3dc667)
-- [@creator_yudai: Set your reminders for this Space, is going to be awesome 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6100c9a69d36fe3c41b7b128333c562)
-- [@creator_yudai: If there is one thing I&#39;d go back in time and tell myself - it&#39;s to prioritize my studies more!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6170d9b68dd6ce2c4177d148933c46a)
-- [@creator_yudai: If you want to enter to field of Fronted Development, start by doing projects.It will teach you a lot and will give you actual experiences that you can showcase.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d616069b66dd6ce7c21273108338cd66)
-- [@creator_yudai: What&#39;s the coolest thing you did this year? Please, share below, and if you have a link - drop it as well 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d6160a9063dd6ce1c51b7a158f39c067)
+- [@creator_yudai: A lot of people have joined me in the last few hours.It’s time to introduce myself 🧔🏻‍♂️I’m Yudai 👋🏻, 23 years old- Web developer 🧑🏻‍💻 - UI/UX designer 👨🏻‍🎨- Love playing with animations 🔵- Vue 💚- Powerful gamer 🎮My goal is to live doing what I love Now it’s your turn👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74df17099469d16de3c6117b108a3ccc67)
+- [@creator_yudai: Thanks to you 👇🏻, I have a learned a ton 🙏🏻@FrancescoCiull4 @oliverjumpertz @VittoStack @_georgemoller @mcgillmd921 @Haezurath @SauravPurohit4 @SuhailKakar @heyOnuoha @khazifire @MrConerMurphy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74df140e9a60d26ce6c7177914883bc26b)
+- [@creator_yudai: Okay, it just happened 💥I have reached 1k connections in Twitter 🤩Thank you so much for the love and support 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74df140e9a60d268e3c7167d128233c765)
+- [@creator_yudai: I’m very excited for this Space 🔥Self-Taught OR CS Degree 📜 Pros and ConsJoin @FrancescoCiull4 and many guests to hear about this topic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d61d079668d06ee9c41b72158d3dc261)
+- [@creator_yudai: This made my day 🙏🏻Thank you so much for your support 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e75d61d079662d26fe5ca1b7316883cc164)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
