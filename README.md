@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Super valuable thread about how to make it as Web3 developer 💯💯Follow @Anni_Maan for more 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de1d0c9669d36ee6c21b78148a39c16a)
+- [@Haezurath: Thank you guys for coming to the launch space for @LearnWeb3DAO 🚀We had almost 500 people!! Here is the recording 😎👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e373eb7fbd7f0860e8dc974d3e30bb04f76d9da61f2aa6f7ed616089363d66ae9c0177d17)
+- [@creator_yudai: It’s a little late to say GM 😅I have long day of travel today, on the bus 🚌😄Perfect time to listen a good podcast.Could you recommend me some good ones?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de1c0f9562d06de8c01278178933c562)
 - [@creator_yudai: What do you do to relax when not working? I use to play some video games 🎮. It&#39;s one of my biggest passions. But I also like a nice dinner at a good restaurant 🤤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de100b9a63d669e2c715721d823ac461)
 - [@creator_yudai: Get inspiration for your next UI design project from this beautiful website 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de100e9a61d66be2c2167e168b3cc565)
-- [@TheJackForge: I don&#39;t give a sh*t what anyone says; I believe anyone can make a living and get paid in tech.Anyone who says otherwise has inferiority complex and is just trying to keep you out.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7cbc3e18c3c8a9460c2ad0cb15d2d9d9d77f2a6637cdb150c9b63d06ce1c1177d178b3bcc)
-- [@FrancescoCiull4: 19 People have spoken in the 4C Twitter space where you can train your public speaking!Credit to @eddiejaoude for the inspiration idea! here are all the speakers:@pradumna_saraf @creator_yudai @ANoorTM @SwapBuilds &lpar;First time!&rpar;@dabariamanish &lpar;First time!&rpar; continues..↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cdb1d0e9760d76be4ca11791c893ac66681c5)
-- [@creator_yudai: Join @FrancescoCiull4 space and share a minute of your time with us, let’s connect 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de17079a60d66ee2c2167d1d8238cc67)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
