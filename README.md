@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Super valuable thread about how to make it as Web3 developer 💯💯Follow @Anni_Maan for more 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de1d0c9669d36ee6c21b78148a39c16a)
-- [@Haezurath: Thank you guys for coming to the launch space for @LearnWeb3DAO 🚀We had almost 500 people!! Here is the recording 😎👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e373eb7fbd7f0860e8dc974d3e30bb04f76d9da61f2aa6f7ed616089363d66ae9c0177d17)
-- [@creator_yudai: It’s a little late to say GM 😅I have long day of travel today, on the bus 🚌😄Perfect time to listen a good podcast.Could you recommend me some good ones?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de1c0f9562d06de8c01278178933c562)
-- [@creator_yudai: What do you do to relax when not working? I use to play some video games 🎮. It&#39;s one of my biggest passions. But I also like a nice dinner at a good restaurant 🤤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de100b9a63d669e2c715721d823ac461)
-- [@creator_yudai: Get inspiration for your next UI design project from this beautiful website 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74de100e9a61d66be2c2167e168b3cc565)
+- [@creator_yudai: Twitter Video Challenge 🙌🏻My advice for today:Take time to work on yourself 🙏🏻Number 2️⃣3️⃣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc170f9368d561e1c21b72168d3ac064)
+- [@MakadiaHarsh: Everyone wants to make money on Twitter.But only a few are aware of the right tools.I made over $5,500 by launching 8 info products.Here&#39;s a list of 19 free tools every creator should know:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323eb9e0c6eb8632849474cfad0cb15d2d9d9d77f2a6637edd10099568dc69e2c51b7b118d3dc3)
+- [@creator_yudai: GM beautiful people 💙Another week to bring value to this amazing community Another week to connect 🙌🏻Wish you all a very productive week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc160d9362d668e3c21b72108a3ec567)
+- [@creator_yudai: Join this space hosted by @VittoStack Talking about companies that are making huge advancements and contributions to Web3 world 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dd1d0f9a66dd6de8c4117813833dcc60)
+- [@creator_yudai: Join @FrancescoCiull4 and awesome speakers, the conversation topic: Web3 communities 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dd110b9465d469e6c41a79118d3ec461)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
