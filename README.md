@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Twitter Video Challenge 🙌🏻My advice for today:Take time to work on yourself 🙏🏻Number 2️⃣3️⃣](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc170f9368d561e1c21b72168d3ac064)
-- [@MakadiaHarsh: Everyone wants to make money on Twitter.But only a few are aware of the right tools.I made over $5,500 by launching 8 info products.Here&#39;s a list of 19 free tools every creator should know:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323eb9e0c6eb8632849474cfad0cb15d2d9d9d77f2a6637edd10099568dc69e2c51b7b118d3dc3)
-- [@creator_yudai: GM beautiful people 💙Another week to bring value to this amazing community Another week to connect 🙌🏻Wish you all a very productive week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc160d9362d668e3c21b72108a3ec567)
-- [@creator_yudai: Join this space hosted by @VittoStack Talking about companies that are making huge advancements and contributions to Web3 world 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dd1d0f9a66dd6de8c4117813833dcc60)
-- [@creator_yudai: Join @FrancescoCiull4 and awesome speakers, the conversation topic: Web3 communities 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dd110b9465d469e6c41a79118d3ec461)
+- [@creator_yudai: Must read 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc130d9b64dc6de7c31478178a3ccd63)
+- [@creator_yudai: You can use this web app to generate grids 🤩Guided by a nice interface you can customize your grid and get the code ready to deploy ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc120a9069d569e8ca117817833ec461)
+- [@creator_yudai: Discipline is the thing that will keep you moving forward everyday.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc120f9b66d369e8c3127b14883cc762)
+- [@creator_yudai: Visit this website to learn strong principles about UX design, top notch ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc11069064dc6ee2c4157314833ec765)
+- [@creator_yudai: Hope you found this thread useful 🙏🏻If so, give it some love 💙 and share 🔁 it with your friends.Follow @creator_yudai for more content like this ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc11099060dc6fe1c71b7a10883dcd63)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
