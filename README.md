@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Must read 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc130d9b64dc6de7c31478178a3ccd63)
-- [@creator_yudai: You can use this web app to generate grids 🤩Guided by a nice interface you can customize your grid and get the code ready to deploy ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc120a9069d569e8ca117817833ec461)
-- [@creator_yudai: Discipline is the thing that will keep you moving forward everyday.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc120f9b66d369e8c3127b14883cc762)
-- [@creator_yudai: Visit this website to learn strong principles about UX design, top notch ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc11069064dc6ee2c4157314833ec765)
-- [@creator_yudai: Hope you found this thread useful 🙏🏻If so, give it some love 💙 and share 🔁 it with your friends.Follow @creator_yudai for more content like this ⚡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc11099060dc6fe1c71b7a10883dcd63)
+- [@creator_yudai: GM my beautiful people 💙Today I have a another day of traveling 🚌I won’t be able to do what I love But I don’t loose my focus and my discipline Wish you all a very fun day 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74db16069364d061e9c5167c14823ec465)
+- [@creator_yudai: Web designer and you don&#39;t know this website?I wish one day of my creations get to the front page 🤤You can get a lot of inspiration from it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc1d079561d56fe1c3147e11893fc16b)
+- [@creator_yudai: If you&#39;re looking for a book that will help you finally achieve your goals, then you can&#39;t go wrong with The IT Leadership Blueprint from @mcgillmd921.It&#39;s so packed with actionable advice, it&#39;s actually unbelievable 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc1d0a9668d661e0ca107f1d8a3dc064)
+- [@creator_yudai: Join me in my Space!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc1d0d9561d06ce7cb14781c8b3fc761)
+- [@creator_yudai: And finally, here you have the link to my github profile 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74dc1d0d9666d06ce8c2117a158a3dcd66)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
