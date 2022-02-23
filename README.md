@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@edatweets_: 🥳🥳 New post: How to get started in web3 on @hashnode! There are many new concepts in web3 which do not exist before: wallets, gas fee, token...It&#39;s an e-book/roadmap kind of post to answer the primitive questions &amp; list great resources👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a3bb3f5d5e7820e96b928d4f61eb1492ac7df6cfaa76e7bdf120b9361d26ae8c7117d1488)
-- [@khazifire: We’re 3200 strong. Thanks to you all 😊✨I have created a resume template to simplify your life as you create your resume ✨To get your copy for FREE: ✅Drop 👋✅Like and Retweet✅And keep your dms open😉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1437b3fbcbe48e0880c974d3e30bb04f76d9da61f6a6687add12099165d469e2c01b791d)
-- [@creator_yudai: Web3 Saturday 😁Join @FrancescoCiull4 in this space talking about the roadmap to become web3 fullstack 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74da14099168d56ee4ca167b108e3ec263)
-- [@creator_yudai: Back then I didn’t knew how the world outside my country was.Watching you I learned I could make connections that transcend my country borders.You are awesome 👑](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74db1c0c9266d060e0c1167a16893ec562)
-- [@creator_yudai: I don’t do this usually, but I literally grew up as Frontend Developer reading his threads 🧵 I’ve have followed his journey since he had 2k followers, maybe less.He has been my source of inspiration, the first person I followed from Tech Twitter.Thanks a lot @Prathkum 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74db1c0c9266d06de3c0157813823cc465)
+- [@creator_yudai: I’m going to be more active in Showwcase, the professional network for developers 💻If you don’t know them already, join and check out my profile.Let’s connect 🤟🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9160c9766d26be8ca147e17823ec762)
+- [@creator_yudai: Let’s go @oliverjumpertz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d915099a61d66ce3cb1b7d1d883bc365)
+- [@creator_yudai: @VittoStack and @FrancescoCiull4 talking about the importance of Web3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d915099762d36fe2c21673178c3ac663)
+- [@creator_yudai: @dabit3 giving an awesome speech about Web3 stack 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9150a9564dd68e7c51772168d3bc465)
+- [@creator_yudai: Join Monthly Dev livestream 🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9150a9760dd6fe4c31272138b38c262)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
