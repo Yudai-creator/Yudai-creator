@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: I’m going to be more active in Showwcase, the professional network for developers 💻If you don’t know them already, join and check out my profile.Let’s connect 🤟🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9160c9766d26be8ca147e17823ec762)
-- [@creator_yudai: Let’s go @oliverjumpertz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d915099a61d66ce3cb1b7d1d883bc365)
-- [@creator_yudai: @VittoStack and @FrancescoCiull4 talking about the importance of Web3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d915099762d36fe2c21673178c3ac663)
-- [@creator_yudai: @dabit3 giving an awesome speech about Web3 stack 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9150a9564dd68e7c51772168d3bc465)
-- [@creator_yudai: Join Monthly Dev livestream 🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9150a9760dd6fe4c31272138b38c262)
+- [@creator_yudai: Show me what you&#39;re working on right now.What are you doing that&#39;s cool and interesting? Drop a link below 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d9110c9468d26fe6c41b7b12833ec060)
+- [@creator_yudai: Don&#39;t be afraid to share your work.Sharing my work with the people around me made a world of difference for the result.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d910069165d26ee8cb137e118e3ecd65)
+- [@creator_yudai: Hope you found them useful 😉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d910099164d76ae7c1127a138333c46b)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d910099164d460e3ca1a721c833ac365)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d910099164d46be2c5157f11833ac26a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
