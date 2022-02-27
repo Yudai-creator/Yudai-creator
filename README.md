@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: GM my beautiful people 🙌🏻Friday at last, today is my traveling day 🚍Have a great day everyone, a remember to keep moving forward 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d815089569dc61e1ca127c178b3dc76b)
 - [@creator_yudai: You can join Canva today 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91d0a9265d16be5cb147d10893ec360)
 - [@creator_yudai: I’ve been using @canva for a while now, to make quick designs.Is an amazing platform 🤩They awarded me with this little GIF, details make difference 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91d0a9265d168e6ca107c118e33c161)
 - [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91c069a62d668e9c5127d128c39c367)
 - [@creator_yudai: Are you a React developer? You probably need UI components to speed up your workflow 🚀Check out this awesome project build by @sidi_jeddou_dev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91c069a62d768e5ca177f168c39c460)
-- [@creator_yudai: Make love and not war ☮️🕊](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91c0b9569d36ae1c4147d158d38c762)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
