@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: GM my beautiful people 🙌🏻Friday at last, today is my traveling day 🚍Have a great day everyone, a remember to keep moving forward 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d815089569dc61e1ca127c178b3dc76b)
-- [@creator_yudai: You can join Canva today 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91d0a9265d16be5cb147d10893ec360)
-- [@creator_yudai: I’ve been using @canva for a while now, to make quick designs.Is an amazing platform 🤩They awarded me with this little GIF, details make difference 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91d0a9265d168e6ca107c118e33c161)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91c069a62d668e9c5127d128c39c367)
-- [@creator_yudai: Are you a React developer? You probably need UI components to speed up your workflow 🚀Check out this awesome project build by @sidi_jeddou_dev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d91c069a62d768e5ca177f168c39c460)
+- [@creator_yudai: How a UI/UX designer work looks like?Is a bit of a puzzle 😅Work in progress 🧑🏻‍💻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d717099b65d36ee3c31a72168f3bc665)
+- [@creator_yudai: GM my beautiful people 💙Ready to start a new week.This can be the week that change your lives, so get up and keep moving forward 🚀Happy monday!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d716069761d061e6c2107915893dc463)
+- [@creator_yudai: Content creators need to hear this 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d81d069064d46be6cb127a148a3ec56b)
+- [@ravikmmr: Advance CSS Sizing Units for Responsive web page.🧵👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3ea4e8c9ef8a08ca9573c6f60ab61368dcd76ffaa66b7eda11079068d769e5c3167f)
+- [@FrancescoCiull4: 🟣 11 Twitter Spaces TIPS thread.✏️Have a Topic🧑‍🤝‍🧑Guests📝Have a structure⏰Have an idea of the duration🗓️Regular Spaces🙋‍♀️Make an introduction🛑Check profiles before inviting⛔Moderate the Space📌Pin a tweet for the questions👋Don&#39;t just say bye space😁Enjoy↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cdb1d089669d16be7c7117c118d3dc16283ca)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
