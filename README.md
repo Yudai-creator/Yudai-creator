@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: How a UI/UX designer work looks like?Is a bit of a puzzle 😅Work in progress 🧑🏻‍💻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d717099b65d36ee3c31a72168f3bc665)
-- [@creator_yudai: GM my beautiful people 💙Ready to start a new week.This can be the week that change your lives, so get up and keep moving forward 🚀Happy monday!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d716069761d061e6c2107915893dc463)
-- [@creator_yudai: Content creators need to hear this 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d81d069064d46be6cb127a148a3ec56b)
-- [@ravikmmr: Advance CSS Sizing Units for Responsive web page.🧵👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3ea4e8c9ef8a08ca9573c6f60ab61368dcd76ffaa66b7eda11079068d769e5c3167f)
-- [@FrancescoCiull4: 🟣 11 Twitter Spaces TIPS thread.✏️Have a Topic🧑‍🤝‍🧑Guests📝Have a structure⏰Have an idea of the duration🗓️Regular Spaces🙋‍♀️Make an introduction🛑Check profiles before inviting⛔Moderate the Space📌Pin a tweet for the questions👋Don&#39;t just say bye space😁Enjoy↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cdb1d089669d16be7c7117c118d3dc16283ca)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d7130c9064d261e8c2157b168b33c467)
+- [@creator_yudai: Okay, I finally did it 😁I created a Github repo where I can store all my twitter threads, thanks for the idea @FrancescoCiull4Be sure to visit it, a lot of free content made for you 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d7130f9b63dc6de1c6177d11833dc767)
+- [@creator_yudai: What do you think makes a good Frontend Developer?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d712079160d560e6c21a7e118f3cc067)
+- [@creator_yudai: Hope you found this thread useful 🙏🏻If so, give it some love 💙 and share 🔁 it with your friends.Follow @creator_yudai for more content like this 😉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d7120c9568d46ce2c4177c178d32c362)
+- [@creator_yudai: You can check my last CSS thread here 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d7120c9568d561e1c11a72168232c763)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
