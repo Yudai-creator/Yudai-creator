@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: How often do you check Twitter each day?...Honestly now 😜](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d613079762d760e1ca107e178938c06a)
 - [@FrancescoCiull4: 🟣Saturday Twitter Space🟣📝Web3 is not only Crypto and NFTs🗓️March 5th, Saturday⏰6pm CETGuests:@stack_tracy_ @0xElan @GlennLaw_ @cleverqazi @saminacodes @AvaxGbl Host:@FrancescoCiull4 &lpar;@dailydotdev&rpar;See you there 👀CLICK =&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cdb1d069768d06ae7cb1573168332c76685cb)
 - [@creator_yudai: I came across this good looking website 😁It is a CSS flex-box cheatsheet, for you if you need to do a quick review 👌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d617089567d06be0cb117d12833dc462)
 - [@creator_yudai: How did you get into the field of Tech?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d6140b9763d26fe1ca117916833ac363)
 - [@creator_yudai: For my Web3 people out there 🤙I recommend you visit this website, where you can find a ton of projects related to web3 world. De-Fi, Dapps, NFTs 💥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d6140e9762d460e1c3137d16883fc663)
-- [@creator_yudai: Hello everyone 👋🏻Today I’m going to 4C Twitter Space 🤩Let’s talk about, what is your why?Why you wake every morning, what is your motivation?👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36e74d71d069661d568e4cb107b1d8a3ac66b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
