@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Come to @FrancescoCiull4 youtube channel.This time talking about web3 development with @cleverqazi Going live now!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dde120f9664d761e0c5147b128a32c060)
+- [@creator_yudai: Portfolio update 6️⃣I created a dedicated spot to my social media accounts.Specially for twitter 😁, where I have grown as a developer and made a lot friends.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dde11069367d768e2ca1b7e128d3fc364)
 - [@sigleapp: 🚨🚨🚨 Major release alert! New Sigle editor is now available for everyone!  below goes into detail of some features that we put out:🧵1/7](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36b5edc7e3970aca9573c6f60ab61368ddde69f1a16d7fdc140c9761d661e9c71072)
 - [@creator_yudai: Happy international women’s dayYou move the world 🌎 🌍 🗺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dde15079b69dd61e7cb10791d8c39c464)
 - [@creator_yudai: Portfolio update 5️⃣I choose this combo for typography, I think they are simple and attractive 🤗Solved my mistake with Comic Sans 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dde15079164d16ae7c4127e138c39cd67)
-- [@creator_yudai: Portfolio update 4️⃣I made some changes to the landing page design.I did my best to write a good sentence that represents my brand and work.#buildinpublic](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dde15079164d669e8c7147c128d3cc762)
-- [@creator_yudai: GM my beautiful people 💙I know I haven’t been active a few days back, but it’s all for good reasons 🙏🏻I’ll be glad to tell you more about it as the week goes by.Wish you all a very productive week, keep moving forward 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddf1c0c9563dc6ae7c5167e158933cc64)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
