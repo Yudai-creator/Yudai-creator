@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: GM everyone 🤩Monday is here, a new week ahead to do better.This week I have a lot to do 🧑🏻‍💻, I’ll keep you posted.Wish you all a very productive week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc170a9063d46ce3c21b7b118333c76b)
 - [@creator_yudai: Freedom is the ultimate goal 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd12089760dd61e4c5177d148b3ac66b)
 - [@creator_yudai: I love this type of threads, carefully crafted visuals 🤩Give @CodeWithEmil a follow, he is putting great some great content out there 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd170f9062d561e1c21573168b33c560)
 - [@creator_yudai: And of course a section for my indie projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd16089069dc6fe3c4177210833dc26a)
 - [@creator_yudai: Portfolio update 8️⃣The latest work section to show some examples of my work as UI designer.This boxes will be filled with a thumbnail of the samples.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd16089069dd61e6ca1178148d39c163)
-- [@creator_yudai: GM to my awesome people out there, who won’t stop until they get to the goal 🚀Friday at last, it&#39;s been a revealing week for me.All I can say is, follow your passion and trust the process 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd160c9664d36ee9c6137d118c38c166)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
