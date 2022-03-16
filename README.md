@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: GM everyone 🤩Monday is here, a new week ahead to do better.This week I have a lot to do 🧑🏻‍💻, I’ll keep you posted.Wish you all a very productive week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc170a9063d46ce3c21b7b118333c76b)
-- [@creator_yudai: Freedom is the ultimate goal 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd12089760dd61e4c5177d148b3ac66b)
-- [@creator_yudai: I love this type of threads, carefully crafted visuals 🤩Give @CodeWithEmil a follow, he is putting great some great content out there 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd170f9062d561e1c21573168b33c560)
-- [@creator_yudai: And of course a section for my indie projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd16089069dc6fe3c4177210833dc26a)
-- [@creator_yudai: Portfolio update 8️⃣The latest work section to show some examples of my work as UI designer.This boxes will be filled with a thumbnail of the samples.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddd16089069dd61e6ca1178148d39c163)
+- [@creator_yudai: If you like this thread 🧵, give it some love ❤️ and share it 🔁 with your friends.Make sure to follow @creator_yudai for more content like this 🙌🏻Peace ☮️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc130d9565d369e9c0167b118238cc6b)
+- [@creator_yudai: I’m gathering all my threads in a Github repository 🗃Have a look here 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc130d9565d368e3c5107a178b3bc16a)
+- [@creator_yudai: CSS is awesome and very deep.I encourage you to learn more about it from this point 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc130d9565d060e6ca117a10833bc161)
+- [@creator_yudai: CSS animation and transition properties 🔵🔵🔵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc130d9565d06ee7cb1678178a38cc67)
+- [@creator_yudai: CSS Flex-box layout 🖼](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddc130d9565d06ce7ca137a118e3ecc66)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
