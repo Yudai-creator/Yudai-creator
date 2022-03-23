@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Hey there my dear friends 🙌🏻I want to start digging into Web3 world, I’ve been studying the thing for a long time now.I have a question for you 👇🏻Do you know what Stacks blockchain is?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dda1d099569d26ee4c0107f1d833bc363)
-- [@creator_yudai: GM my beautiful people 🙌🏻A new week, a fress start to to work and move forward 🚀That’s what I try for me, improve at least 1%Wish you the same for you 🤜🏻🤛🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dda1c069062dc69e2c4157913893fc061)
-- [@creator_yudai: Heads up 🙌🏻@khazifire is building a community for designers on Discord 😎We are more than 50 already and growing 🚀Join down here 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dda130c9362d56be9c2167f17833ec667)
-- [@creator_yudai: Friday 🥳At younger age, I use to consider fridays as the day to go to party with me friends 🍻Now I rather be at home, spend time with me girlfriend and play some videogames 🎮Priorities change with time, or I’m getting old 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddb1d0e9a63d76ee2ca1b73118b3ac461)
-- [@creator_yudai: GM everyone 🙌🏻Happy holi to all my indian friends 🤗🔴⚪️🟡🟢🟠🟤🟣⚫️🔵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ddb1c0c9061d76fe1c01b7e118e39c460)
+- [@creator_yudai: .tv-shadow{ box-shadow: 10px 5px 1px black}CSS is haunting me 😅😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9170f9463d16ae8c6137f1d8e39cc6a)
+- [@creator_yudai: Rate my setup 😁Share yours below 👀👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9170f9463d168e5cb147a128933c763)
+- [@creator_yudai: Navigation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd916089568dc69e1c21473148832c261)
+- [@creator_yudai: I&#39;ve been a few weeks working on this design project for a friend.Really excited to share it with you today 🔥We came up with this new concept, what do you think?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd916089568dd6ee2c11a7f1d8f3fc263)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9160c9265d560e2c7147e148e3dc566)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
