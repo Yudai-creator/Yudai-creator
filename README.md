@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Hey there my dear friends 👋🏻I want to start digging into Web3 world 🌎 I’ve been studying the thing for a long time now, and I think I could share good content on it.I have a question for you 👇🏻Do you know about @Stacks blockchain?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9130f9664dc61e4c7167c178f3bcd63)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd912099465d76ae4c71478168a33c563)
+- [@creator_yudai: Join @TreciaKS and @FrancescoCiull4 in this awesome livestream about CSS 🤩Link below 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd912099465d768e8c4147c138f3ccd66)
+- [@creator_yudai: 4C Twitter Space starting now 🙌🏻Join us!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9120f9560dd6ee6ca1478138a3ecc63)
 - [@creator_yudai: .tv-shadow{ box-shadow: 10px 5px 1px black}CSS is haunting me 😅😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9170f9463d16ae8c6137f1d8e39cc6a)
-- [@creator_yudai: Rate my setup 😁Share yours below 👀👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9170f9463d168e5cb147a128933c763)
-- [@creator_yudai: Navigation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd916089568dc69e1c21473148832c261)
-- [@creator_yudai: I&#39;ve been a few weeks working on this design project for a friend.Really excited to share it with you today 🔥We came up with this new concept, what do you think?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd916089568dd6ee2c11a7f1d8f3fc263)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9160c9265d560e2c7147e148e3dc566)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
