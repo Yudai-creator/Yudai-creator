@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Web3 I’m coming to you 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd8140e9169d26de2c5167a1c833ec063)
+- [@creator_yudai: I&#39;ve changed many things in my life.How? Using incremental steps and monumental gains.Don&#39;t be blinded by overnight success. Persistence is what matters 💪](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd91d0a9565d560e4c11179108832c56b)
 - [@creator_yudai: Hey there my dear friends 👋🏻I want to start digging into Web3 world 🌎 I’ve been studying the thing for a long time now, and I think I could share good content on it.I have a question for you 👇🏻Do you know about @Stacks blockchain?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9130f9664dc61e4c7167c178f3bcd63)
 - [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd912099465d76ae4c71478168a33c563)
 - [@creator_yudai: Join @TreciaKS and @FrancescoCiull4 in this awesome livestream about CSS 🤩Link below 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd912099465d768e8c4147c138f3ccd66)
-- [@creator_yudai: 4C Twitter Space starting now 🙌🏻Join us!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9120f9560dd6ee6ca1478138a3ecc63)
-- [@creator_yudai: .tv-shadow{ box-shadow: 10px 5px 1px black}CSS is haunting me 😅😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd9170f9463d16ae8c6137f1d8e39cc6a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
