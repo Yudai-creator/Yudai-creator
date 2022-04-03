@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: I just created my channel recently and going to start uploading content soon ⚡Subscribe so you can get notified when the first video comes out 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd6110b9668d060e6c11b7c148c32c56b)
-- [@creator_yudai: So, I&#39;m editing some videos 🤩Preparing some good stuff for twitter and youtube.I&#39;m just getting started 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd6110b9668d06ce0c311781d8b3ecc60)
-- [@creator_yudai: You can watch the full view here 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd6110f9b61d561e0c21372148833cd60)
-- [@creator_yudai: Portfolio update 1️⃣1️⃣I haven&#39;t been able to do much process over my portfolio, but I managed to get some done.Hero section and About me section are done for mobile view 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd6110f9b61d56ce0c011791d883dcc65)
-- [@creator_yudai: Do you need help with content creation?Do you feel out of ideas?Don&#39;t worry 😉 Join the Cool Community of Content Creators and get to hang out with awesome people 🤙🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd610069063dd68e2c21a7f16893dc360)
+- [@creator_yudai: Oh I almost forgot 😅I successfully passed the exam ✅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdf140d9366d569e8cb117f13833ac16b)
+- [@creator_yudai: Great start of the Open Source twitter bootcamp by @pradumna_saraf Make sure to follow his initiative 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61d099a68d16ce3c1157d108c33c260)
+- [@creator_yudai: Meeting people with the same goals as you is magical ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61c079667dc6ee0c210781c8e3dc36b)
+- [@creator_yudai: In case you haven&#39;t yet, join our 4C community on Discord 💥Get to hang out with awesome content creators 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61c0a9667d260e4c0177d15833acd63)
+- [@creator_yudai: I wanna start Friday shoutouts ⚡Give a follow to this awesome content creators 👇@Aakash_codes@akebu6@sajid_curious@theVatsal_ethThanks for adding value to the community 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61c0a9667d26ce5c1107b16893ec16a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
