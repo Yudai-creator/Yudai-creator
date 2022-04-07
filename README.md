@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: First day at job completed ✅ Yes, I have taken a job opportunity as UI/UX designer 🤩Doing great so far 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde150d9362d161e4c21a79138b3bcd66)
-- [@creator_yudai: GM to those willing to keep moving forward 🚀Even though the tide is too high 🌊 Be disciplined, be consistent I wish you all a very productive week 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdf1d0d9a61d268e2c61178178833cd6a)
-- [@creator_yudai: Oh I almost forgot 😅I successfully passed the exam ✅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdf140d9366d569e8cb117f13833ac16b)
-- [@creator_yudai: Great start of the Open Source twitter bootcamp by @pradumna_saraf Make sure to follow his initiative 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61d099a68d16ce3c1157d108c33c260)
-- [@creator_yudai: Meeting people with the same goals as you is magical ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7dd61c079667dc6ee0c210781c8e3dc36b)
+- [@creator_yudai: Back to top 🔝](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089564d66fe7c2167213833dcc61)
+- [@creator_yudai: If you liked this thread, it would help me a lot if you give it some love 💙 and share it 🔁 with your friends.Make sure to follow @creator_yudaifor more content like this.See you in the next one 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dc69e2c315731c8f32c76a)
+- [@creator_yudai: Last thread about Sass 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd60e8c710791d8c3fc265)
+- [@creator_yudai: The above examples are just a few of the color functions Sass has.I&#39;ll leave the link of reference for the other functionssince they are quite a few 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd6ee9c0137d15823cc761)
+- [@creator_yudai: Sass color functions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd6ce4c0117a108238c46a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
