@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Design system in progress 💥I have never done this before, creating whole style guidelines and patterns for a startup.But guess what?You only learn by doing, I like the challenge and I&#39;m sure I&#39;ll learn a lot 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd150f9363dd6fe5c61679158e33c461)
+- [@creator_yudai: My newest thread about Sass is getting a lot of reactions 💙Have you seen it yet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd140b9664d769e4ca1b7815823dcd63)
+- [@creator_yudai: Great explanation of what a Pull Request for beginner devs 💯💯You guys need to check out these threads about Open Source made by my friend @pradumna_saraf](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde1c079265d168e2c11a781d8c3acd65)
+- [@creator_yudai: GM beautiful people 🙌🏻Thanks for the kind messages, I really appreciate it 💙💙If I can give you one advice to get a job in tech, it would be 👇🏻Document your learning and share your work in public 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde12079165d461e3c01779168238c466)
 - [@creator_yudai: Back to top 🔝](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089564d66fe7c2167213833dcc61)
-- [@creator_yudai: If you liked this thread, it would help me a lot if you give it some love 💙 and share it 🔁 with your friends.Make sure to follow @creator_yudaifor more content like this.See you in the next one 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dc69e2c315731c8f32c76a)
-- [@creator_yudai: Last thread about Sass 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd60e8c710791d8c3fc265)
-- [@creator_yudai: The above examples are just a few of the color functions Sass has.I&#39;ll leave the link of reference for the other functionssince they are quite a few 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd6ee9c0137d15823cc761)
-- [@creator_yudai: Sass color functions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089661dd6ce4c0117a108238c46a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
