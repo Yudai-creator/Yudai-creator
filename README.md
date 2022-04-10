@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Design system in progress 💥I have never done this before, creating whole style guidelines and patterns for a startup.But guess what?You only learn by doing, I like the challenge and I&#39;m sure I&#39;ll learn a lot 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd150f9363dd6fe5c61679158e33c461)
-- [@creator_yudai: My newest thread about Sass is getting a lot of reactions 💙Have you seen it yet?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd140b9664d769e4ca1b7815823dcd63)
-- [@creator_yudai: Great explanation of what a Pull Request for beginner devs 💯💯You guys need to check out these threads about Open Source made by my friend @pradumna_saraf](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde1c079265d168e2c11a781d8c3acd65)
-- [@creator_yudai: GM beautiful people 🙌🏻Thanks for the kind messages, I really appreciate it 💙💙If I can give you one advice to get a job in tech, it would be 👇🏻Document your learning and share your work in public 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde12079165d461e3c01779168238c466)
-- [@creator_yudai: Back to top 🔝](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cde17089564d66fe7c2167213833dcc61)
+- [@creator_yudai: In case you haven&#39;t yet, join our 4C community on Discord.Get to hang out with awesome content creators 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100c9466d76ee1cb1b7f108e3cc36b)
+- [@creator_yudai: Friday shoutouts 💥Give a follow to this awesome content creators 👇@pranshuj73@HinguDharmik@SwapBuilds@Div_pradeepThanks for adding value to the community 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100c9466d769e7c4147b128d3fc667)
+- [@creator_yudai: What was your biggest challenge so far in your career?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100f9464d16be0cb137e15883bcc67)
+- [@creator_yudai: Thank you so much for your help 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd160a9567d46ce7c51172118332c467)
+- [@creator_yudai: @VittoStack @pradumna_saraf @M4ss1ck @SauravPurohit4 @oliverjumpertz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd160a9567d468e4ca1a7d10823fcd67)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
