@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: In case you haven&#39;t yet, join our 4C community on Discord.Get to hang out with awesome content creators 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100c9466d76ee1cb1b7f108e3cc36b)
-- [@creator_yudai: Friday shoutouts 💥Give a follow to this awesome content creators 👇@pranshuj73@HinguDharmik@SwapBuilds@Div_pradeepThanks for adding value to the community 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100c9466d769e7c4147b128d3fc667)
-- [@creator_yudai: What was your biggest challenge so far in your career?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd100f9464d16be0cb137e15883bcc67)
-- [@creator_yudai: Thank you so much for your help 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd160a9567d46ce7c51172118332c467)
-- [@creator_yudai: @VittoStack @pradumna_saraf @M4ss1ck @SauravPurohit4 @oliverjumpertz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd160a9567d468e4ca1a7d10823fcd67)
+- [@creator_yudai: Pizza sunday 😋🍕Remember to take breaks everyone.Peace ☮️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdc160a9769d16fe1c3157d1d8e39c665)
+- [@creator_yudai: GM people ⚡️So, I have received a great deal of feedback.React/Next it is then 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdc15099463d56ee2c0147d1d8a33c063)
+- [@creator_yudai: My youtube channel where I talk about web development and UI design 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd120d9561dd60e8c41072158f38c56b)
+- [@creator_yudai: My blog on the decentralized blogging platform ⚡️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd120d9561dd6ce4c61478128a38c16b)
+- [@creator_yudai: I share UI/UX work on instagram](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdd120d9561d26ce1c4127314893bc062)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
