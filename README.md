@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@Prathkum: Web Development is challenging.But it becomes a little easier if you follow the right resources.Mega thread of free courses, GitHub repos, and low-code tools:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2db3f5cae99217ca9573c6f60ab61368dddf6df3a66b7fd810089b64d06be9c4107f)
+- [@creator_yudai: GM my dear friends 🙌🏻Friday at last, time to take a small break.It’s great to work consistently, but is also great to have a decent break.WAGMI 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb1d089162d16be4c6137b108e39c360)
+- [@SuhailKakar: Are you a web developer?Here are 24 websites that can save you 20+ hours every week!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2abae0cbeeac1b8e877588f10ba4482c9bc169f6a36e7bd816089b60d268e9c7127c128e3b)
 - [@creator_yudai: Okay I have seen CSS art here and there, but look at this 👇🏻Mind blowing 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb11069061d46ae0c01072128d3bc765)
 - [@creator_yudai: When I started learning about Web3, I only heard about Ethereum.I came to know about @sigleapp running on a different chain, @Stacks I have been learning about it since almost a month now.I’ll be glad to share content about Stacks soon, and bring more devs to it 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb160c9362d461e6c71a7b1d8939cd6a)
-- [@creator_yudai: Learning from the awesome @traversymedia Thanks a lot for these videos 🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb140c9265dd6be8c2127b1d8f3fc36a)
-- [@creator_yudai: Today taking on some introductory videos about React ⚛️Just enough to pickup the fundamentals.React hooks 🪝 are really cool 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb140c9265dd6ae4ca117b1c8c3ac56b)
-- [@creator_yudai: GM everyone 🙌🏻I have found this article quite interesting 🤔 Steps to become a better frontend dev 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdc1c089360dc6ae6ca1773178d3bc661)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
