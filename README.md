@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Announcement 📢 Starting tomorrow I’ll begin a new series of threads/blog posts about #Stacks blockchain ⚡️My main goal: Bring new developers to the Stacks ecosystem.Which is as exciting as other blockchain projects.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd915089268d068e7c31a7215893cc264)
+- [@creator_yudai: I ask this because, I’ve been a little chaotic past weeks since I got the job 😅I’m getting used to this](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd9140a9560d36ce7c71b7a1c8e3dc36a)
+- [@creator_yudai: Tech twitter, I have a question for you ☝🏻How you deal with time management? What’s your formula to go over your tasks everyday 🤔](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd9140a9560d36ae7c5137a13823cc26a)
+- [@creator_yudai: GM my dear friends 🙌🏻It’s monday, time to go back to work after a pleasant weekend 😁Best wishes to everyone who shows up everyday and tries to improve to improve that 1%Wish you all a very productive week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd9140f9564d26fe0c31a7e158c39c065)
 - [@Prathkum: Web Development is challenging.But it becomes a little easier if you follow the right resources.Mega thread of free courses, GitHub repos, and low-code tools:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2db3f5cae99217ca9573c6f60ab61368dddf6df3a66b7fd810089b64d06be9c4107f)
-- [@creator_yudai: GM my dear friends 🙌🏻Friday at last, time to take a small break.It’s great to work consistently, but is also great to have a decent break.WAGMI 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb1d089162d16be4c6137b108e39c360)
-- [@SuhailKakar: Are you a web developer?Here are 24 websites that can save you 20+ hours every week!!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2abae0cbeeac1b8e877588f10ba4482c9bc169f6a36e7bd816089b60d268e9c7127c128e3b)
-- [@creator_yudai: Okay I have seen CSS art here and there, but look at this 👇🏻Mind blowing 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb11069061d46ae0c01072128d3bc765)
-- [@creator_yudai: When I started learning about Web3, I only heard about Ethereum.I came to know about @sigleapp running on a different chain, @Stacks I have been learning about it since almost a month now.I’ll be glad to share content about Stacks soon, and bring more devs to it 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cdb160c9362d461e6c71a7b1d8939cd6a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
