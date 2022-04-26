@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: *Edit tweet for a short period of time, otherwise trolls will rule twitter 😅Just to avoid the damn typos 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd7120a9367d76ae1c1137d10833cc267)
+- [@creator_yudai: Please @elonmusk Add an edit tweet button 🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd7120c9563d16ce5c1137e1c8c38c76b)
+- [@creator_yudai: GM awesome people 🙌🏻Today waking up with some fever and sore throat 🤧But no matter, that won’t stop from doing the best this week 🚀Wish you all a very productive week, and take care ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd711089269d06de5ca1b7315893fcd62)
 - [@creator_yudai: GM beautiful people ❤️It’s friday 🙌🏻, time to relax a bit from work.It’s okay to take a break, you have all the time in the world to reach your goals.Just take it easy 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd810069064d368e3cb167d1c8b3ec26b)
 - [@htmleverything: Why no-code tools aren&#39;t a threat to your job. ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e172bbfedc7f482089c926fceec18ea4f2d899a2db0bd6b78de130d9a62d468e4c3117e158839c36483)
-- [@creator_yudai: I had a great time with my friends here ❤️❤️Thank you all in the chat, all the love and support.Cheers 🥂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd815069067dc6ce9c61572138c3fc260)
-- [@creator_yudai: We are live 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd815099266d66be9c6157e1d8e3bc463)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd8150d9265d66be7c31073148d3ac164)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
