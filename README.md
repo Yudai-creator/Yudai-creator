@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: *Edit tweet for a short period of time, otherwise trolls will rule twitter 😅Just to avoid the damn typos 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd7120a9367d76ae1c1137d10833cc267)
-- [@creator_yudai: Please @elonmusk Add an edit tweet button 🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd7120c9563d16ce5c1137e1c8c38c76b)
-- [@creator_yudai: GM awesome people 🙌🏻Today waking up with some fever and sore throat 🤧But no matter, that won’t stop from doing the best this week 🚀Wish you all a very productive week, and take care ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd711089269d06de5ca1b7315893fcd62)
-- [@creator_yudai: GM beautiful people ❤️It’s friday 🙌🏻, time to relax a bit from work.It’s okay to take a break, you have all the time in the world to reach your goals.Just take it easy 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd810069064d368e3cb167d1c8b3ec26b)
-- [@htmleverything: Why no-code tools aren&#39;t a threat to your job. ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e172bbfedc7f482089c926fceec18ea4f2d899a2db0bd6b78de130d9a62d468e4c3117e158839c36483)
+- [@creator_yudai: Simplify to amplify 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd6140f9167d36de3c51b7c1c8b33c36b)
+- [@creator_yudai: If you haven&#39;t yet, check my latest thread about Stacks blockchain here 👇Follow @creator_yudai for more content like this 🤙#WAGMI 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d660e9ca1b7310893dcc63)
+- [@creator_yudai: A more in-depth article about this topic written in @sigleapp🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d66ce9c2127f148b38cd66)
+- [@creator_yudai: That’s it for this thread 💯I believe that is important to know the core fundamentals concepts of how Stacks blockchain works, and how it gets the awesome properties it has.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d668e6c3177a108f3acc61)
+- [@creator_yudai: Proof of transfer blockchains is anchored to a chosen Proof of work chain. In our case Stacks uses Bitcoin as its anchor chain.PoX is designed so that builders can benefit from Bitcoin’s properties without modifying Bitcoin itself.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d76ee3cb167814893cc762)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
