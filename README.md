@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@FrancescoCiull4: Let&#39;s make a gameReply with 🤌 and I will tell you what I honestly think about your Twitter profile.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda15069569d568e5c6157d138233c46687ca)
 - [@creator_yudai: Are you interested in Open Source?My friend here is doing a great job sharing content about it 💯Let’s help him make it to 1k followers today 🚀🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd617089169d46de6c1147c1c8f33cc65)
 - [@Stacks: 🚨 Stacks 🤝 @DappRadar 🚨Decentralized application tool DappRadar added all prominent Stacks ecosystem apps to help users discover Stacks 🚀A huge win for the Stacks ecosystem 🙏Don&#39;t see your favourite app on DappRadar? Tag them below 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3e2c9f1c809918773d2f150f40968d1dd69f4a1637bd7100e9a67dc61e1c6)
 - [@creator_yudai: Simplify to amplify 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd6140f9167d36de3c51b7c1c8b33c36b)
 - [@creator_yudai: If you haven&#39;t yet, check my latest thread about Stacks blockchain here 👇Follow @creator_yudai for more content like this 🤙#WAGMI 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d660e9ca1b7310893dcc63)
-- [@creator_yudai: A more in-depth article about this topic written in @sigleapp🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd71d0c9363d66ce9c2127f148b38cd66)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
