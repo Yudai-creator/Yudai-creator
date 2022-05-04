@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde110a9368d16ae9ca1a72158d32cc67)
+- [@creator_yudai: I post regularly on instagram, or at least I’m trying to 😅Main topics:• UI design• UI/UX guides• Share a little bit about me 🤙🏻Doing something different, consider following me there 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde110a9368d661e6c7177314833cc36a)
+- [@creator_yudai: GM ⚡I decided to update my twitter header, after a long time 😅Check it out 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde110f9b64d26de1c51b7a158f3cc061)
+- [@creator_yudai: GM tech twitter 🤟🏻I’ve been a bit inactive since last week.Sometimes I get to feel overwhelmed about all the things I want to do.The best thing I can do is to take a step back and reorganize myself.And take it easy because we only got one life 😄Happy week everyone 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde150f9168d36fe4c5127b108f32c662)
 - [@ykdojo: I asked 50+ developer advocates for advice on how to get started &amp; excel with DevRel.Here&#39;s all the awesome advice they shared, as well as a list of 12+ resources to get started &amp; keep improving.A giant 🧵👇 &lpar;trust me it’s worth reading&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0634b6eec8edc809918773d2f150f4096bd8da61f2a36c7fdd160a9562d269e2c5)
-- [@FrancescoCiull4: Let&#39;s make a gameReply with 🤌 and I will tell you what I honestly think about your Twitter profile.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda15069569d568e5c6157d138233c46687ca)
-- [@creator_yudai: Are you interested in Open Source?My friend here is doing a great job sharing content about it 💯Let’s help him make it to 1k followers today 🚀🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd617089169d46de6c1147c1c8f33cc65)
-- [@Stacks: 🚨 Stacks 🤝 @DappRadar 🚨Decentralized application tool DappRadar added all prominent Stacks ecosystem apps to help users discover Stacks 🚀A huge win for the Stacks ecosystem 🙏Don&#39;t see your favourite app on DappRadar? Tag them below 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3e2c9f1c809918773d2f150f40968d1dd69f4a1637bd7100e9a67dc61e1c6)
-- [@creator_yudai: Simplify to amplify 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7cd6140f9167d36de3c51b7c1c8b33c36b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
