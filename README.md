@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Thanks for reading 💙, give this thread some love and follow @creator_yudai for more content like this 🤙Latest thread about Stacks blockchain here 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde1c079a67d16de0c41278108c3dc16b)
-- [@creator_yudai: That&#39;s it for this thread 🙌I think if you are new to web3, Stacks can be a great opportunity in terms of jobs, collaborations and the chance to have a place in this boat 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde1c079a67d169e1c3107b1d823bc261)
-- [@creator_yudai: Get to know more about Stacks ecosystem here 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde1c079a67d66ee9c2137a15893bc365)
-- [@creator_yudai: Stacks.jsStacks.js is a library that gives the possibility to interact with clarity smart contracts from frontend applications. Similar to Web3.js and Ethers.js.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde1c079a67d66ae5c31572128d3bcd62)
-- [@creator_yudai: ClarinetClarinet is a CLI that allows us to easily write, test, and deploy smart contracts. This is similar to Hardhat or Truffle in Ethereum.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fde1c079a67d760e1cb1573178c3bc065)
+- [@creator_yudai: Check my latest thread about Stacks and follow @creator_yudai for more cool content 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60dd6fe4c4127814893ecc61)
+- [@creator_yudai: Learn more about Stacks wallets 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60dd6be5c3147812883bc462)
+- [@creator_yudai: Main features:- Available on Android and iOS only- Send and receive tokens- Multi-asset support- Biometric security support](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d261e2ca1378108338c060)
+- [@creator_yudai: Xverse Your gateway to web3 on Bitcoin.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d26de0c51a7c148332cc61)
+- [@creator_yudai: Hiro systems come with super documentation 💥 Aim for developers that want to build Web3 apps.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d268e8ca127a118c3fc163)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
