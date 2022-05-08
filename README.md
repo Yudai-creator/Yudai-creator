@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Check my latest thread about Stacks and follow @creator_yudai for more cool content 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60dd6fe4c4127814893ecc61)
-- [@creator_yudai: Learn more about Stacks wallets 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60dd6be5c3147812883bc462)
-- [@creator_yudai: Main features:- Available on Android and iOS only- Send and receive tokens- Multi-asset support- Biometric security support](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d261e2ca1378108338c060)
-- [@creator_yudai: Xverse Your gateway to web3 on Bitcoin.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d26de0c51a7c148332cc61)
-- [@creator_yudai: Hiro systems come with super documentation 💥 Aim for developers that want to build Web3 apps.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd16079b60d268e8ca127a118c3fc163)
+- [@creator_yudai: That&#39;s it ⚡Hope you find great use of these threads, let me know in the comments comments 🤙Get access to a github repo with all my threads 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd11079762d26ce2c4167e148d3ac466)
+- [@creator_yudai: Sass introduction for beginners 🎮](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd11079762d268e0c61b7917833ccd67)
+- [@creator_yudai: Learn how to name your variables the proper way 👩‍💻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd11079762d36de8c61078148d33c46b)
+- [@creator_yudai: CSS animations code snippets 📝](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd11079762d369e4c1167a178b3ac265)
+- [@creator_yudai: The animation and transition property, give life to your website ⭐](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdd11079762d06ee8c1157b1c8933cd66)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
