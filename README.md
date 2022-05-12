@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Should I write an eBook with everything I know about CSS?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdc130e9466d060e5c1147e1c883fc766)
-- [@creator_yudai: Reached 1k likes in this thread, that’s crazy 🤯Thank you so much for the love.Since you guys like CSS so much. Should I write an eBook with everything I know about CSS?It will be free for all 🤗Let me know in the comments](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdc130e9466d16ee5c7117f10833cc567)
-- [@creator_yudai: Are you a fan of blobs? Well, I am 😁I have used this design accent countless times in my projects.In fact, they are part of my visual branding.With this tool, you can generate them, copy the code and go 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdc120a9467d46ae5ca1178178d3acc67)
-- [@creator_yudai: GM beautiful people 💙We have a new week ahead, perfect to continue working towards our goals.Keep consistency and discipline, and I’m sure you’ll get to where you want.Keep moving forward 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdc120d9a67d56ce8c2167c16833ec264)
-- [@creator_yudai: @FrancescoCiull4 we need a second part 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdc170b9b63d768e4c0127317823ac36a)
+- [@creator_yudai: If you wanna learn about this concepts 💡Visit my blog on @sigleapp, the decentralized blogging platform .](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb14069668d268e2c0127f108c3fcc63)
+- [@creator_yudai: Web3 developer roadmap 🛣My status right now:- Learn the basics of blockchain ✅- Learn about Smart Contracts ✅- Learn how to interact with a blockchain&lpar;Stacks.js&rpar; ✅- Learn smart contracts language &lpar;Clarity&rpar;❌Almost there 🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb14069668d360e2c616731c8a3ac060)
+- [@creator_yudai: Make your votes 🗳🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140b9661d669e8c6147e1d8f38c462)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140f9065d068e0c41479108a39cd61)
+- [@creator_yudai: GM my awesome friends 🤙🏻Do you have trouble pairing fonts? Fonts are very important component in a website, it makes the difference to increase conversion rate and good looks.Suffer no more and use this little app 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140f9064dd6fe3c71773178b3ec76a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
