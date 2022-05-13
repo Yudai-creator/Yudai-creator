@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: If you wanna learn about this concepts 💡Visit my blog on @sigleapp, the decentralized blogging platform .](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb14069668d268e2c0127f108c3fcc63)
-- [@creator_yudai: Web3 developer roadmap 🛣My status right now:- Learn the basics of blockchain ✅- Learn about Smart Contracts ✅- Learn how to interact with a blockchain&lpar;Stacks.js&rpar; ✅- Learn smart contracts language &lpar;Clarity&rpar;❌Almost there 🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb14069668d360e2c616731c8a3ac060)
-- [@creator_yudai: Make your votes 🗳🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140b9661d669e8c6147e1d8f38c462)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140f9065d068e0c41479108a39cd61)
-- [@creator_yudai: GM my awesome friends 🤙🏻Do you have trouble pairing fonts? Fonts are very important component in a website, it makes the difference to increase conversion rate and good looks.Suffer no more and use this little app 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb140f9064dd6fe3c71773178b3ec76a)
+- [@creator_yudai: You can do your own animations if you learn how they work 💥Check this thread I wrote about CSS animations.Hope it helps, give this thread some love 💙and share it with your friends.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d668e2cb147c148f3cc262)
+- [@creator_yudai: Micron.jsThis one is very interesting, a library to perform micro-interactions powered by javascript.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d76ee3c11772118239cc65)
+- [@creator_yudai: Motion UIThis one is Sass library to create flexible CSS transitions and animations](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d76ae1c11578128d3ccd67)
+- [@creator_yudai: InfiniteAs the name saysInfinite CSS animations to add to your projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d46fe9c11a72128d3ccd65)
+- [@creator_yudai: Animate.cssThis one is much more like a library, you can include it in your project via npm and you are ready to go.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d46be3c21a7f108933cd62)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
