@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: &quot;What&#39;s your twitter growth strategy?&quot; It&#39;s simple:I tweet about the things that are interesting to me and format them in a way that is easy on the eyes.Oh. And I talk to people. It&#39;s called &quot;social&quot; media for a reason 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fda150c9563d46be0c5127d1c8a33c06b)
+- [@creator_yudai: GM it&#39;s friday 😎Today we have a new tool to generate waves ✨These are cool design accents to use in your projects 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fda14079064d36ae3c0147d11883acd65)
 - [@creator_yudai: You can do your own animations if you learn how they work 💥Check this thread I wrote about CSS animations.Hope it helps, give this thread some love 💙and share it with your friends.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d668e2cb147c148f3cc262)
 - [@creator_yudai: Micron.jsThis one is very interesting, a library to perform micro-interactions powered by javascript.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d76ee3c11772118239cc65)
 - [@creator_yudai: Motion UIThis one is Sass library to create flexible CSS transitions and animations](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d76ae1c11578128d3ccd67)
-- [@creator_yudai: InfiniteAs the name saysInfinite CSS animations to add to your projects](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d46fe9c11a72128d3ccd65)
-- [@creator_yudai: Animate.cssThis one is much more like a library, you can include it in your project via npm and you are ready to go.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fdb13099561d46be3c21a7f108933cd62)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
