@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: A good website design goes hand to hand with good illustrations, am I right?Say no more 🤚Here you have a good place to search for good and free illustrations to use 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd915069063d56de4c3137f128f32c362)
-- [@creator_yudai: GM beautiful people 💎Waking up early today, new week of opportunities ahead 🎯Keep the good work going and surely you’ll get to wherever you want.Wish you the best 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd9150b9467d76ee0c2107a16893fcc64)
-- [@Prathkum: Being a junior developer is tough.Here are 9 points I learned in 9 months:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2db3f5cae99217ca9573c6f60ab61368dddc6df6a66974d91d089a68d26be2ca107e)
-- [@creator_yudai: &quot;What&#39;s your twitter growth strategy?&quot; It&#39;s simple:I tweet about the things that are interesting to me and format them in a way that is easy on the eyes.Oh. And I talk to people. It&#39;s called &quot;social&quot; media for a reason 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fda150c9563d46be0c5127d1c8a33c06b)
-- [@creator_yudai: GM it&#39;s friday 😎Today we have a new tool to generate waves ✨These are cool design accents to use in your projects 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fda14079064d36ae3c0147d11883acd65)
+- [@creator_yudai: Give this thread some love 💙 and share 🔁 it with your friends.Follow me for more content like this one 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d469e2c4177f138939c06b)
+- [@creator_yudai: That&#39;s it for this thread 💥Hope you find this intro to Clarity language useful, and please share your opinions with me in the comments below.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d56fe3c5147b17833ac167)
+- [@creator_yudai: Take a look at Clearness, a blog created by my friend @Cohars where he shares his learnings about Clarity.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d56ae8c31a7b118c32cd66)
+- [@creator_yudai: A series of blog posts with everything you need to know about web3 dev with Stacks.Written by @KenTheRogers dev advocate at @Stacks](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9364dc60e4c41a7d158833cc62)
+- [@creator_yudai: First thing first go read through the Clarity book&lpar;wip&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9364dc6ce5c61b73108f39c766)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
