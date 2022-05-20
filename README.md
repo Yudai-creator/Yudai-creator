@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Give this thread some love 💙 and share 🔁 it with your friends.Follow me for more content like this one 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d469e2c4177f138939c06b)
-- [@creator_yudai: That&#39;s it for this thread 💥Hope you find this intro to Clarity language useful, and please share your opinions with me in the comments below.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d56fe3c5147b17833ac167)
-- [@creator_yudai: Take a look at Clearness, a blog created by my friend @Cohars where he shares his learnings about Clarity.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9365d56ae8c31a7b118c32cd66)
-- [@creator_yudai: A series of blog posts with everything you need to know about web3 dev with Stacks.Written by @KenTheRogers dev advocate at @Stacks](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9364dc60e4c41a7d158833cc62)
-- [@creator_yudai: First thing first go read through the Clarity book&lpar;wip&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd91d0b9364dc6ce5c61b73108f39c766)
+- [@creator_yudai: Best Space I have been in 💙💙You guys rock 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd817089665d06ae7ca117c108238cc63)
+- [@creator_yudai: 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd817099369d06de8cb1a7810883acd63)
+- [@creator_yudai: Let me know your favorite games 👇🏻I love RPG games mostly, like Elder Scrolls, Dark Souls, WoW.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd816069461d668e9c01b7c16823ccc61)
+- [@creator_yudai: I have a confession to make 💥One of my goals working in tech is to save as much money as I can.To buy a top notch gaming PC 😅Raise your hand 🙋🏻‍♂️ if you are a hardcore gamer like me.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd816069461d760e1c6167316893ec76b)
+- [@creator_yudai: GM ✨Omatsuri is a collection of open-source browser tools.You have a great variety of options to choose from 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd8160a9465d16fe3c317731c8f39cd6b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
