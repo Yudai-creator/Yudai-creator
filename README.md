@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Join @FrancescoCiull4 and amazing speakers to this Space 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7140d9a64d26be5c01b7e148f3bc566)
 - [@creator_yudai: With some @dailydotdev stickers swag 😋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd812099b60dd69e8ca157316823cc36b)
 - [@creator_yudai: Setup update 🙌🏻Bought myself a new desk, not much, but better than what I had.🚀🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd812099b60d36ee3c71b7a138838c265)
 - [@creator_yudai: GM awesome people 💙Found on product hunt 💥An app useful to reduce the size of your images without quality loss.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd8120e9a69d068e6ca177b148c3dc465)
 - [@creator_yudai: Best Space I have been in 💙💙You guys rock 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd817089665d06ae7ca117c108238cc63)
-- [@creator_yudai: 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd817099369d06de8cb1a7810883acd63)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
