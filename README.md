@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: This tool just saved my day 🤩I was looking to remove backgrounds to create mockups to present UI designs.This app made it easy and fast 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd71c0e9a68dd6be5c7167a14883ec067)
+- [@creator_yudai: Smart contracts are needed for an application to interact with a blockchain ⛓In this thread I made introduction to Clarity, smart contract language for @Stacks](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7130c9368d56fe1c41b73158b3dcc63)
+- [@creator_yudai: GM beautiful people 💙Looking forward to a great week, let’s get the best of it.Always remind yourself to stay positive at any situation. Don’t give up 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd712069366d26ae4c51772118f32c166)
 - [@creator_yudai: Join @FrancescoCiull4 and amazing speakers to this Space 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7140d9a64d26be5c01b7e148f3bc566)
 - [@creator_yudai: With some @dailydotdev stickers swag 😋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd812099b60dd69e8ca157316823cc36b)
-- [@creator_yudai: Setup update 🙌🏻Bought myself a new desk, not much, but better than what I had.🚀🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd812099b60d36ee3c71b7a138838c265)
-- [@creator_yudai: GM awesome people 💙Found on product hunt 💥An app useful to reduce the size of your images without quality loss.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd8120e9a69d068e6ca177b148c3dc465)
-- [@creator_yudai: Best Space I have been in 💙💙You guys rock 😎](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd817089665d06ae7ca117c108238cc63)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
