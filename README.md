@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6150f9a69d76be5c31573148b3cc567)
+- [@creator_yudai: I created these cards for my Instagram posts 💥I&#39;ll be sharing knowledge about UI/UX design and Animations.Let see how this new adventure goes, link to my profile below 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6150f9a69d768e9c3117b168839c667)
+- [@creator_yudai: GM everyone 🙌🏻There’s always good to add visual information to your websites.We achieve this using a good pack of icons, hint 💡use the same pack of icons to stay consistent.Here you can some goodies 🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd614099166d36be8c4157812883bc266)
 - [@creator_yudai: This tool just saved my day 🤩I was looking to remove backgrounds to create mockups to present UI designs.This app made it easy and fast 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd71c0e9a68dd6be5c7167a14883ec067)
 - [@creator_yudai: Smart contracts are needed for an application to interact with a blockchain ⛓In this thread I made introduction to Clarity, smart contract language for @Stacks](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7130c9368d56fe1c41b73158b3dcc63)
-- [@creator_yudai: GM beautiful people 💙Looking forward to a great week, let’s get the best of it.Always remind yourself to stay positive at any situation. Don’t give up 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd712069366d26ae4c51772118f32c166)
-- [@creator_yudai: Join @FrancescoCiull4 and amazing speakers to this Space 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7140d9a64d26be5c01b7e148f3bc566)
-- [@creator_yudai: With some @dailydotdev stickers swag 😋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd812099b60dd69e8ca157316823cc36b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
