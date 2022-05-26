@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6150f9a69d76be5c31573148b3cc567)
-- [@creator_yudai: I created these cards for my Instagram posts 💥I&#39;ll be sharing knowledge about UI/UX design and Animations.Let see how this new adventure goes, link to my profile below 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6150f9a69d768e9c3117b168839c667)
-- [@creator_yudai: GM everyone 🙌🏻There’s always good to add visual information to your websites.We achieve this using a good pack of icons, hint 💡use the same pack of icons to stay consistent.Here you can some goodies 🎯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd614099166d36be8c4157812883bc266)
-- [@creator_yudai: This tool just saved my day 🤩I was looking to remove backgrounds to create mockups to present UI designs.This app made it easy and fast 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd71c0e9a68dd6be5c7167a14883ec067)
-- [@creator_yudai: Smart contracts are needed for an application to interact with a blockchain ⛓In this thread I made introduction to Clarity, smart contract language for @Stacks](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd7130c9368d56fe1c41b73158b3dcc63)
+- [@creator_yudai: Give it a look, you can found valuable content there 🤗](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6fe0c3157a118f38c567)
+- [@creator_yudai: A friendly reminder 🔔A few months ago I created a github repo to store all my twitter threads.Now I’ll start adding my instagram visual posts.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6ce4ca117c178839c060)
+- [@Stacks: 🚨 Stacks 🤝 @shopping_io 🚨Breaking: Major eCommerce platform @shopping_io has added support for STX payments, meaning $STX holders can now use $STX tokens on the world’s largest eCommerce sites like @amazon @eBay @Walmart &amp; @HomeDepot 🚀Read more 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3e2c9f1c809918773d2f150f4096bd1da61f1a76a7cde1c099067d46de9c6)
+- [@creator_yudai: New UI is on the workshop.Smells like NFT landing page 😏I’ll share more details about this project soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd610079665d669e0ca1679118b33cd6b)
+- [@creator_yudai: GM everyone I woke up a little late today 😅Today I present to you, probably, my favorite icon pack, or at least the one I use the most.These icons are unique, they come as an NPM package to install in your projects.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6100a9260d761e8c01772128e33c765)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
