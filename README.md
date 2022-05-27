@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Portfolio update 5️⃣Design presentation I made of my portfolio website design.Currently under development process, hope to show it live soon.Any feedback 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd61d069768d069e1c1127915893dc56b)
+- [@creator_yudai: GM 🙌🏻Typography is a very important aspect of web design. You can achieve so much more just by choosing the right typeface.I think I have found my favorite place to pick free fonts 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd613069a69d26de3c3167216883cc265)
 - [@creator_yudai: Give it a look, you can found valuable content there 🤗](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6fe0c3157a118f38c567)
 - [@creator_yudai: A friendly reminder 🔔A few months ago I created a github repo to store all my twitter threads.Now I’ll start adding my instagram visual posts.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6ce4ca117c178839c060)
 - [@Stacks: 🚨 Stacks 🤝 @shopping_io 🚨Breaking: Major eCommerce platform @shopping_io has added support for STX payments, meaning $STX holders can now use $STX tokens on the world’s largest eCommerce sites like @amazon @eBay @Walmart &amp; @HomeDepot 🚀Read more 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3e2c9f1c809918773d2f150f4096bd1da61f1a76a7cde1c099067d46de9c6)
-- [@creator_yudai: New UI is on the workshop.Smells like NFT landing page 😏I’ll share more details about this project soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd610079665d669e0ca1679118b33cd6b)
-- [@creator_yudai: GM everyone I woke up a little late today 😅Today I present to you, probably, my favorite icon pack, or at least the one I use the most.These icons are unique, they come as an NPM package to install in your projects.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6100a9260d761e8c01772128e33c765)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
