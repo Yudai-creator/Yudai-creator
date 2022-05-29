@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Don’t focus to much on the goal.Focus on the journey to get there, enjoy the process 💯Having this mindset will help you enjoy your achievements.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edf160b9265d268e5cb1a7f148b39c363)
+- [@creator_yudai: GM my friends, happy friday 🙌🏻This week I haven’t been able to create much content for twitter.But I have been able to achieve progress in other projects, which I’m really proud of 🚀How was you week?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edf15089b64d46fe5c0127214893fc561)
 - [@creator_yudai: Portfolio update 5️⃣Design presentation I made of my portfolio website design.Currently under development process, hope to show it live soon.Any feedback 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd61d069768d069e1c1127915893dc56b)
 - [@creator_yudai: GM 🙌🏻Typography is a very important aspect of web design. You can achieve so much more just by choosing the right typeface.I think I have found my favorite place to pick free fonts 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd613069a69d26de3c3167216883cc265)
 - [@creator_yudai: Give it a look, you can found valuable content there 🤗](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6fe0c3157a118f38c567)
-- [@creator_yudai: A friendly reminder 🔔A few months ago I created a github repo to store all my twitter threads.Now I’ll start adding my instagram visual posts.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6ce4ca117c178839c060)
-- [@Stacks: 🚨 Stacks 🤝 @shopping_io 🚨Breaking: Major eCommerce platform @shopping_io has added support for STX payments, meaning $STX holders can now use $STX tokens on the world’s largest eCommerce sites like @amazon @eBay @Walmart &amp; @HomeDepot 🚀Read more 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2bb3e2c9f1c809918773d2f150f4096bd1da61f1a76a7cde1c099067d46de9c6)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
