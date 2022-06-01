@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Don’t focus to much on the goal.Focus on the journey to get there, enjoy the process 💯Having this mindset will help you enjoy your achievements.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edf160b9265d268e5cb1a7f148b39c363)
-- [@creator_yudai: GM my friends, happy friday 🙌🏻This week I haven’t been able to create much content for twitter.But I have been able to achieve progress in other projects, which I’m really proud of 🚀How was you week?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edf15089b64d46fe5c0127214893fc561)
-- [@creator_yudai: Portfolio update 5️⃣Design presentation I made of my portfolio website design.Currently under development process, hope to show it live soon.Any feedback 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd61d069768d069e1c1127915893dc56b)
-- [@creator_yudai: GM 🙌🏻Typography is a very important aspect of web design. You can achieve so much more just by choosing the right typeface.I think I have found my favorite place to pick free fonts 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd613069a69d26de3c3167216883cc265)
-- [@creator_yudai: Give it a look, you can found valuable content there 🤗](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7fd6110a9a67dd6fe0c3157a118f38c567)
+- [@creator_yudai: Have you checked my latest thread?A collection of all free resources I have shared during this last month 😃](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ede130a9763dc6ae0ca177a108c38cc61)
+- [@creator_yudai: That&#39;s why I am a member of the 4C community where we come along and share our journey as content creators.Consider joining 🤙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ede120a9269d061e6c31b7b1c8f3bc667)
+- [@creator_yudai: There’s nothing like the power of a community to help get you going when you need a little extra motivation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ede120a9269d06de6c2177a1c8338c067)
+- [@creator_yudai: Hope you enjoy these resources, please tell me your opinions down in the comments.I&#39;m Yudai, and you are welcome to follow me for more content like this 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ede120e9760d36ce9cb177e128e33c767)
+- [@creator_yudai: SVG background patterns.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ede120e9760d368e5c0127a118838c166)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
