@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Have you checked my latest thread?Learn/refresh about Javascript high order array methods 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb170c9368d36de5c01b7f148a3dc561)
-- [@creator_yudai: At the beginning of my journey, I thought that people with big following will never respond to my comments.With time I learned that the best way to do this is to interact genuinely and add value to the conversation.Don&#39;t be afraid of the numbers. Go and make connections 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb160b9262d160e1c31178108f3cc36b)
-- [@creator_yudai: alert&lpar;“I didn&#39;t expect this many comments 🤯”&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb15079461dc68e2cb1179158c3bc767)
-- [@creator_yudai: You don&#39;t have to get a fancy IDE or download VS code to start coding.Write and test HTML/CSS/JS code in your browser with this code playground.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb15089666d468e6c51b7d16883fc767)
-- [@creator_yudai: That&#39;s it for this thread, thanks for reading.Let me know in the comments below what other topics should I write about JS.Don&#39;t forget to follow @creator_yudai for more content like this one 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb150c9a61d061e7c511791d8f33c16b)
+- [@creator_yudai: People in Tech Twitter have different opinions about DMs.I found them useful many times to get connected with many friends.Best advice ⚡Don&#39;t go spam your links or requests, you are talking to another human being.Try to be kind and start a natural conversation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb120f9066d660e8c3137f158338c36b)
+- [@creator_yudai: Get your stuff from the vault 💥Yes, this vault is full of UI components and patterns inspiration for you to build your applications.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110b9460d66ce1c2147e118d3dc266)
+- [@creator_yudai: That&#39;s it for this thread, thanks for reading.Did you like this kind of post, please tell me your opinions in the comments 💙Make sure to follow @creator_yudai for more content like this.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d16ce5c21b731d8f32c461)
+- [@creator_yudai: 6- Build a portfolio](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d661e8c11a73158d3bc560)
+- [@creator_yudai: 5- Practice and more practice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d66de5c1167a17883ec565)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
