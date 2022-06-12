@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: GM ✌🏻Did you miss me yesterday 😅, I was just taking a small break.Remember to take breaks, we are not machines, it’s okay to miss one day.Happy friday!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7eda160d9161d569e6c41373178b32c461)
 - [@creator_yudai: People in Tech Twitter have different opinions about DMs.I found them useful many times to get connected with many friends.Best advice ⚡Don&#39;t go spam your links or requests, you are talking to another human being.Try to be kind and start a natural conversation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb120f9066d660e8c3137f158338c36b)
 - [@creator_yudai: Get your stuff from the vault 💥Yes, this vault is full of UI components and patterns inspiration for you to build your applications.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110b9460d66ce1c2147e118d3dc266)
 - [@creator_yudai: That&#39;s it for this thread, thanks for reading.Did you like this kind of post, please tell me your opinions in the comments 💙Make sure to follow @creator_yudai for more content like this.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d16ce5c21b731d8f32c461)
 - [@creator_yudai: 6- Build a portfolio](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d661e8c11a73158d3bc560)
-- [@creator_yudai: 5- Practice and more practice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb110f9265d66de5c1167a17883ec565)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
