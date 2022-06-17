@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: I’m missing a lot of awesome Spaces 🥺Great talks and awesome speakers.I guess I have to start hosting my own Spaces, who wants to join?cc:@ykdojo](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed9110d9669dc6ce7c21b79178832c763)
-- [@creator_yudai: Well, a hell of start for this week 🥵Power cuts, storms and rain, bad internet.But no worries, I’m still standing, I won’t give up as long as I have strength to go on.This only means I’m going to be a bit slower with my regular schedule.Keep moving forward 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed910099b64d66de9c3127d168c3ecc62)
-- [@creator_yudai: GM everyone 🙌🏻I had a fun weekend, just what I needed to recharge. I hope you all had a great one too.Now let’s get the best of this new week ahead of us 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed9170d9762d76de0c6127c128b3ec26b)
-- [@creator_yudai: GM ✌🏻Did you miss me yesterday 😅, I was just taking a small break.Remember to take breaks, we are not machines, it’s okay to miss one day.Happy friday!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7eda160d9161d569e6c41373178b32c461)
-- [@creator_yudai: People in Tech Twitter have different opinions about DMs.I found them useful many times to get connected with many friends.Best advice ⚡Don&#39;t go spam your links or requests, you are talking to another human being.Try to be kind and start a natural conversation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7edb120f9066d660e8c3137f158338c36b)
+- [@creator_yudai: That&#39;s it for this thread, thanks for reading.Did you like this kind of post, please tell me your opinions in the comments 💙Make sure to follow @creator_yudaifor more content like this.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed816099b65d16ae5c4107b1d823fc06b)
+- [@creator_yudai: Latest thread about UI design ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed816099b65d660e3cb1579128d3ac264)
+- [@creator_yudai: 5- Minimize actions](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed816099b65d66be8c3167a168338cd67)
+- [@creator_yudai: 4- Color and contrast](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed816099b65d761e4c4167d168933c16b)
+- [@creator_yudai: 3- White space](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed816099b65d76de1cb157c1d8a3fcd6a)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
