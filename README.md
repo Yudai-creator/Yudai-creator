@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: If you are starting your journey on learning how to codeOr you are learning a new tech.❌Don’t get overwhelmed because you think there’s much to learn.You will never know everything.The right mindset: Go with what you need at the moment, step by step 🧗](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed6170a9467d66be7c11b7d16893dc064)
+- [@creator_yudai: Awesome initial Space Host experience 🤩Thank you so much everyone for joining 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed616079660d36be2c1167b1c833cc564)
+- [@creator_yudai: Let’s go twitter space rehearsal 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed616089b64d06be3c2117a108333c561)
+- [@creator_yudai: I don’t see Spaces up in my TL 🤔That’s weird.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed616089060d260e7c11a731c8d32c460)
 - [@creator_yudai: I will never find the perfect time, so let’s do this.It’s a leap of faith 🙌🏻Yes, I’m hosting my first Space, to break the ice, talking about content creation on Tech Twitter.Open mic, everyone is welcome to join and have a chat 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed71d0d9762dd6de3c2167e15893cc36b)
-- [@creator_yudai: Next wednesday June 22nd 🗓1 pm GMT](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed71d0d9762dd60e8c01673108f3bc661)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed71c089b62d760e9c7107e16883bc56a)
-- [@creator_yudai: Alright, coming up with my daily share of free design/dev resources to make your life easier 😉Check this website to avoid the headache of color contrast.Test your colors fast, and design faster 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed71c089b60dc6fe0c51078108b3cc162)
-- [@creator_yudai: GM my beautiful people 🙌🏻Happy monday, and happy start of the week.Last week was awful for me, and my productivity, but it doesn’t diminish my commitment.Let’s go crush this new week 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7ed71c0c9665d66de0c71173108f39c767)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
