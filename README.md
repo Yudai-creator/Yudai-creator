@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: I’m building the habit of reading a Design article everyday 💯Today’s read was about the future of UX, and how big the growth of this role will be.So you still got to learn and land a job 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79da160f9762dc6ce8c41b72118f38c566)
+- [@creator_yudai: I’m doing Frontend at the moment 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79da150c9667dd60e9c1147e148c3dc16a)
+- [@creator_yudai: Which side of web development are you in?Frontend 🖼 OR Backend 🤖](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79da14099565dd6ee0c01b7c1d883bc76a)
+- [@creator_yudai: GM mi gente 💙As I&#39;m always looking for interesting resources to speed up our work.I came across this awesome illustration library, super cool, and they are all for free 🤩Made by @realvjy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79da140d9264d56ee7c3117c10823cc362)
 - [@creator_yudai: Thanks for reading 💙Tell me in the comments if you like this kind of content and what other topics should post about 😉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79db1c0b9369d060e7c51b72128a3dc564)
-- [@creator_yudai: If you are interested in learning UI design, check out my latest thread about the topic.↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79db1c0b9369d06ce5ca177d108a39c465)
-- [@creator_yudai: 10/10](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79db1c0b9369d068e1c4167c118b3ecc65)
-- [@creator_yudai: 9/10](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79db1c0b9369d16ce8c11b78148932c466)
-- [@creator_yudai: 8/10](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79db1c0b9369d661e6c4117e178232c36b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
