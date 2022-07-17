@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
+- [@creator_yudai: I feel so related to this article, written by @TreciaKS I went exactly for the same processes and challenges.One big advice I can give you is: Believe it! You are what you believe you are.And my friend you have already proven your value.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d7140d9465dd6ae2c3167b148f3fcd62)
+- [@creator_yudai: Portfolio website update 📌I have already built the whole layout and design of the website.Now just need to give the final touches to responsive design and add my custom fonts.Some pics 👇🏻#buildinpublic](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d81d079767d56fe2c71a78158f3ec561)
 - [@creator_yudai: My biggest fear right now is not being able to be productive at work, or a task I set out to do.There´s no moment in the day that I don´t want to stop working.Is this being a workaholic? Do you guys feel this way too?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d8120c9765d060e0c6127f1c8e3dc660)
 - [@creator_yudai: #NewProfilePicSummer update 🔥I’m gonna use this one for all my socials till winter comes again and my hair grows 😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d8120d9b69d26ee2cb1a7f14823cc76a)
 - [@creator_yudai: I really think you should check out Refactoring UI.I&#39;m really learning a lot! If you are interested in UI design, and you can afford it, it&#39;s definitely a good investment.Best of the best 👌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d8120f9468d06ee5c2127a168a33c363)
-- [@creator_yudai: Atomicons is a beautiful and simple icon pack to use in your designs and projects.You can personalize them in their official website 👇🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d811089163d26ce9c01a7b108b3acc61)
-- [@creator_yudai: Color contrast plays a great role in UI/UX design.I received some comments from my audience about color issues with my post visuals.I went right away to fix it 💯This is an essential matter about building in public.Show your work, get feedback, and improve.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d91c099566d560e1c21b7310893dcc63)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
