@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Building in public, what it means:⚡️Show what you are currently doing ⚡️Doesn’t matter if it is a screenshot, or a code snippet.Show yourself to the public, get feedback and improve 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d615099568d760e7ca127d12883bc162)
-- [@creator_yudai: New content dropping tomorrow 💥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d614089567d461e8c7147d17823cc165)
-- [@creator_yudai: I was able to work on some new content this weekend.Creating this type of content makes me:✅Improve my UI design skills.✅Provide value to the community by sharing knowledge.It&#39;s a win-win for everyone.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d614089567d46ee7c71b73138a3cc165)
-- [@creator_yudai: I second this 💙I’m really grateful for the connections I have made so far.Thanks you so much 🙏🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6140b9461d160e4c41378108d3ec362)
-- [@creator_yudai: GM mi gente ☀️I hope you had a good weekend, and recharged your batteries for this new week.Let’s get the best of this week ahead!Wish you all the best in your endeavors 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d71d069766dc6ee5c617781d823bc163)
+- [@creator_yudai: As a developer, what&#39;s the first thing you do at a job interview?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6100e9366d76be7c7117e11893ac76a)
+- [@creator_yudai: Thanks for reading 💙Please leave some comments so we can interact and discuss about this topic.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6160c9666d66ae8c1107c1d833fc366)
+- [@creator_yudai: Check my latest thread about the topic ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6160c9666d760e6c614731c883bc261)
+- [@creator_yudai: 8/8I gave you the keywords, now it is up to you.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6160c9666d76ce5c3167911883bc06a)
+- [@creator_yudai: 7/8](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f79d6160c9666d461e8c3157313883ac061)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
