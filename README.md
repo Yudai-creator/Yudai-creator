@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: Thanks for reading 💙I&#39;ll be sharing more awesome tips about colors, so make sure to follow me for more content like this.Let me know in the comments how you like this type of content.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df14089061d068e3c01772148c3cc461)
-- [@creator_yudai: 9/9](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df14089061d16de6c41179178c33cc63)
-- [@creator_yudai: 8/9](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df14089061d169e2c11a79108c3ac263)
-- [@creator_yudai: 7/9](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df14089061d66ee9ca1a7b1d8b3dc766)
-- [@creator_yudai: 6/9](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df14089061d66ae2c410781c8838c363)
+- [@creator_yudai: That&#39;s it for this celebration thread 😅I hope to keep sharing value with this awesome community that is Tech Twitter 💙And keep meeting awesome people to learn and share experiences.Yudai Heber](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d66ae1c41a781c8d33c465)
+- [@creator_yudai: And to all this people I have met, I have to say I&#39;m forever grateful 💙For everyone that shares value, that shares knowledge and tries to help everyone around, THANK YOU 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d76fe8c3147b138b32c467)
+- [@creator_yudai: During this year I have become a better developerLearned new skills as UI Design and UX DesignI got my first job in tech Worked in several projects Meet awesome people online](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d76be6c4117d14883fc06a)
+- [@creator_yudai: 3- Commitment and consistency If something has helped me get here, it has been my discipline and consistencyEven though times look darkest, I decided to press on](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d461e7c01a7b168c32c567)
+- [@creator_yudai: I started to interact with awesome people from whom I learned a great deal.@Prathkum @heyOnuoha@Haezurath@VittoStack@DThompsonDev@mcgillmd921@FrancescoCiull4And so many more, thank you so much for sharing value 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d46de4c71379118f3ec76b)
 <!-- TWITTER:END -->
 
 # Reached more than 1k connections 💙
