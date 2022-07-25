@@ -2,7 +2,7 @@
 
 ### I'm a web developer and UI/UX designer. Passionate about animations on the web, love creating little animations to increase users experience. Love designing UIs, lets me develop my creativiy. I build my projects using the JAMStack, with Nuxt and SASS on board, yes I like doing my own CSS 😁
 
-##
+###
 
 ### Love learning new technologies and languages, can't stop, won't stop.
 
@@ -11,7 +11,7 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 ![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/js.png)![node](https://github.com/Yudai-creator/Yudai-creator/blob/master/Node-JS-01.png)![sass](https://github.com/Yudai-creator/Yudai-creator/blob/master/sass.png)![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/Vue-JS-01.png)![nuxt](https://github.com/Yudai-creator/Yudai-creator/blob/master/Nuxt-01.png)![netlify](https://github.com/Yudai-creator/Yudai-creator/blob/master/Netlify-01.png)
 
 
-##
+###
 
 ### I document my learning on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai)
 
