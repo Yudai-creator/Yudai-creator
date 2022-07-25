@@ -1,4 +1,4 @@
-![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/Intro.gif)
+![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
 
 ### I'm a web developer and UI/UX designer. Passionate about animations on the web, love creating little animations to increase users experience. Love designing UIs, lets me develop my creativiy. I build my projects using the JAMStack, with Nuxt and SASS on board, yes I like doing my own CSS 😁
 
