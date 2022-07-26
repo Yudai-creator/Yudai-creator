@@ -15,9 +15,7 @@
 
 ##
 
-### I document my learning on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai)
-
-#### See my latest tweets 📲
+### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
 - [@creator_yudai: When starting on creating content, try to not focus that much on likes.Instead focus on the value you provide ✅Every time I share a new piece of content, if one person learns something new with it, I feel happy 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de120f9161d668e1c3137c14823fc162)
