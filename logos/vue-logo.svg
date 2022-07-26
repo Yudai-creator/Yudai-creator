@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.016" height="17.344" viewBox="0 0 20.016 17.344">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f1484"/>
+      <stop offset="0.494" stop-color="#541672"/>
+      <stop offset="1" stop-color="#490551"/>
+    </linearGradient>
+  </defs>
+  <path id="vue-logo" d="M47,46h3.547l6.461,10.9L63.469,46h3.547L57.008,63.344Zm4.416,0H54.7l2.312,4v0l2.317-4H62.6l-5.593,9.437Z" transform="translate(-47 -46)" fill="url(#linear-gradient)"/>
+</svg>
