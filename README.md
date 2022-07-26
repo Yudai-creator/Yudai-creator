@@ -7,13 +7,8 @@
 
 ## Technologies and Languages I use most ↓
 
-<!--
 ![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/javascript-logo.svg)![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/vue-logo.svg)![react](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/react-logo.svg)![sass](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/sass-logo.svg)![tailwind](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/tailwind-logo.svg)![netlify](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/netlify-logo.svg)![git](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/git-logo.svg)
--->
 
-
-
-##
 
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
