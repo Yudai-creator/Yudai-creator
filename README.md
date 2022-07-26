@@ -7,10 +7,8 @@
 
 ## Technologies and Languages I use most ↓
 
+![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/javascript-logo.svg)![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/vue-logo.svg)![react](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/react-logo.svg)![sass](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/sass-logo.svg)![tailwind](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/tailwind-logo.svg)![netlify](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/netlify-logo.svg)![git](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/git-logo.svg)
 
-<!--
-![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/js.png)![node](https://github.com/Yudai-creator/Yudai-creator/blob/master/Node-JS-01.png)![sass](https://github.com/Yudai-creator/Yudai-creator/blob/master/sass.png)![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/Vue-JS-01.png)![nuxt](https://github.com/Yudai-creator/Yudai-creator/blob/master/Nuxt-01.png)![netlify](https://github.com/Yudai-creator/Yudai-creator/blob/master/Netlify-01.png)
--->
 
 
 ##
