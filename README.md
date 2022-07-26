@@ -18,11 +18,11 @@ Technologies and Languages I use most ![arrow-down](https://github.com/Yudai-cre
 #### See my latest tweets 📲
 
 <!-- TWITTER:START -->
-- [@creator_yudai: That&#39;s it for this celebration thread 😅I hope to keep sharing value with this awesome community that is Tech Twitter 💙And keep meeting awesome people to learn and share experiences.Yudai Heber](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d66ae1c41a781c8d33c465)
-- [@creator_yudai: And to all this people I have met, I have to say I&#39;m forever grateful 💙For everyone that shares value, that shares knowledge and tries to help everyone around, THANK YOU 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d76fe8c3147b138b32c467)
-- [@creator_yudai: During this year I have become a better developerLearned new skills as UI Design and UX DesignI got my first job in tech Worked in several projects Meet awesome people online](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d76be6c4117d14883fc06a)
-- [@creator_yudai: 3- Commitment and consistency If something has helped me get here, it has been my discipline and consistencyEven though times look darkest, I decided to press on](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d461e7c01a7b168c32c567)
-- [@creator_yudai: I started to interact with awesome people from whom I learned a great deal.@Prathkum @heyOnuoha@Haezurath@VittoStack@DThompsonDev@mcgillmd921@FrancescoCiull4And so many more, thank you so much for sharing value 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78df100a9a64d46de4c71379118f3ec76b)
+- [@creator_yudai: When starting on creating content, try to not focus that much on likes.Instead focus on the value you provide ✅Every time I share a new piece of content, if one person learns something new with it, I feel happy 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de120f9161d668e1c3137c14823fc162)
+- [@creator_yudai: You are probably waiting for the perfect time to share your work.Waiting to learn everything there is.You are wrong ❌The quicker you start, the quicker you fail, and the quicker you learn 💯#buildinpublic](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de110a9168d260e0c2117f178839c464)
+- [@creator_yudai: That&#39;s it for this tutorial 🙌Please do let me know down in the comments if you like this method.Like and share this post with your friends.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de110d9164d26de8c6147c138f3ec76a)
+- [@creator_yudai: 7/7](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de110d9164d269e5ca167b178e3bc266)
+- [@creator_yudai: 6/7](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de110d9164d36ee8c71a791d8e3bc162)
 <!-- TWITTER:END -->
 
 
