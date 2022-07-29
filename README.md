@@ -13,11 +13,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
-- [@creator_yudai: 4CALL-2 or the Later 4CALL 😉Today at 8pm CEST the 4C community members join in a call to have a good chat and interact.Come join us and introduce yourself 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd14069b64dd60e1c616731d8d39c065)
-- [@creator_yudai: Don&#39;t share your designs just for you ❌Share them in public and get feedback ✅The best way to improve your design skills is by getting feedback from users.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de1d0e9662d56de2c2107d168b3ac362)
-- [@creator_yudai: Did you like these color tools?Please let me know down in the comments.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de1c079768d269e2c5167c148b3ec166)
-- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de1c079768d36fe3c11673168f3acc60)
-- [@creator_yudai: Curated color inspiration](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78de1c079768d36ae8ca147a148b3cc664)
+- [@creator_yudai: I hope you enjoy this selection of websites to pick good fonts.Let me know what font style you like the most?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd12099a69d261e8c111791d8f3ecc61)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd12099a69d26ce8c6107a118f3cc060)
+- [@creator_yudai: Curated open-source fonts.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd12099a69d268e0c41a7212883bc26b)
+- [@creator_yudai: Free Font Utopia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd12099a69d36de9c51a7a1d8b3bcd63)
+- [@creator_yudai:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78dd12099a69d369e0c4117c128c33c463)
 <!-- TWITTER:END -->
 
 
