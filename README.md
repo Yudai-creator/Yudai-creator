@@ -13,11 +13,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+- [@creator_yudai: I have always been fan of using just CSS for my projects, specially SCSS.Love to do my own custom stuff 😁Today I started using Tailwind CSS for a project at work.I have to say I’m loving the experience 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db1c0a9467d661e6ca1a7a148c3cc26a)
 - [@creator_yudai: 4CALL-2 🙌🏻Tomorrow at 8pm CEST the 4C community members join in a call to have a good chat and interact.Talking about Content Creation and how to improve our community.Come join us and introduce yourself 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db110a9560d46ae6c1147a11823cc165)
 - [@creator_yudai: Uff that was a lot of resources 😅I hope that you find them useful, and please tell me in the comments if you like them and what are your favorites.Make sure to follow me for moreeee 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d060e1c31a78178f3cc763)
 - [@creator_yudai: Websites](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d06be4c510791c8938c36a)
 - [@creator_yudai: Colors](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d161e3c5117a168332c362)
-- [@creator_yudai: Fonts](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d16ce8c4177e1c8d32c167)
 <!-- TWITTER:END -->
 
 
