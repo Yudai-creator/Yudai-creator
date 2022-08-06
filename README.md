@@ -13,11 +13,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Found this cheat sheet for conversational commits, give it a look 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78da160c9364d46fe4c0117b178d3ac366)
+- [@creator_yudai: Today working with conventional commits 🔥I have joked about how funny my commits are sometimes, but this was just me working on my projects.When working in a team it’s better to have certain organization and structure.That’s why conventional commits are a good fit 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78da160d9569d260e6c21778128c3bc163)
+- [@creator_yudai: Sometimes we feel that urge of comparing ourselves with others.But we should not do that ❌More often than not, we live different lives, and different situations.Focus on comparing with yourself, look at how have you grown one year ago ✅That’s the real growth.GM 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78da15079162d568e2c5167d128e39c464)
 - [@creator_yudai: I have always been fan of using just CSS for my projects, specially SCSS.Love to do my own custom stuff 😁Today I started using Tailwind CSS for a project at work.I have to say I’m loving the experience 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db1c0a9467d661e6ca1a7a148c3cc26a)
 - [@creator_yudai: 4CALL-2 🙌🏻Tomorrow at 8pm CEST the 4C community members join in a call to have a good chat and interact.Talking about Content Creation and how to improve our community.Come join us and introduce yourself 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db110a9560d46ae6c1147a11823cc165)
-- [@creator_yudai: Uff that was a lot of resources 😅I hope that you find them useful, and please tell me in the comments if you like them and what are your favorites.Make sure to follow me for moreeee 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d060e1c31a78178f3cc763)
-- [@creator_yudai: Websites](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d06be4c510791c8938c36a)
-- [@creator_yudai: Colors](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78db100e9069d161e3c5117a168332c362)
 <!-- TWITTER:END -->
 
 
