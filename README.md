@@ -13,11 +13,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+- [@creator_yudai: GM twitter fam 💙I had an amazing weekend celebrating my birthday with my family.I really needed this break 😅, I have to reply to so many comments of you, thanks for all the nice wishes.How are you guys doing?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bde130c9762dc6fe8cb137c128a32c762)
+- [@creator_yudai: Celebrating life 🤩😎🏝Good vibes from Cuba 🇨🇺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bde17089b64d36de0ca177c118239c660)
+- [@creator_yudai: Thanks for all the wishes my friends, love you all 💙💙💙💙💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bde150b9068d469e9c617791c8833c163)
+- [@creator_yudai: Is that time of the year 🎊I got some balloons on my profile 😁🎈🎈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdf1d099564d06ae3c1147a108b3ec166)
 - [@creator_yudai: Hello my dear friends 💙I’ve been kind of away from social media these days.I’m facing some challenges that diminishes my consistency with content creation.But I will find another way to bring value as I used to do ⚡️Never give up!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78d6110b9460d560e5c1137d128239c16a)
-- [@creator_yudai: Thanks for all the messages my friends 💙The situation has been handled, the fire has stopped, but it’s a big hit to the environment 😞We are recovering](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78d8160e9260d36de1c2157d168339cc63)
-- [@creator_yudai: Sad day for Cuba 🇨🇺😞](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78d9130c9661dd61e2c1117c148f3cc567)
-- [@creator_yudai: Hey there’s a real human here 😅, not a content bot.I usually don’t post photos of myself here, except my pfp.So here I am, where I spend most of my time. My studio 🧑🏻‍💻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78da120a9165d769e8c3157d158d3ac76a)
-- [@creator_yudai: This thread worth a good read 💯Thanks for sharing @JeremyTechDev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f78da17069663d169e1c41472108f3ec467)
 <!-- TWITTER:END -->
 
 
