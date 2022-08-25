@@ -1,3 +1,5 @@
+![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
+
 <h1 align="center">What´s up 🙌 I´m Yudai from Cuba, happy to connect ✌️</h1>
 <h3 align="center">Frontend developer and UI designer. Love creating products that match usuability and accessibility for end users.</h3>
 
