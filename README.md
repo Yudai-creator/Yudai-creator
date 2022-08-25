@@ -1,6 +1,6 @@
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
 
-<h1 align="center">What´s up 🙌 I´m Yudai from Cuba, happy to connect ✌️</h1>
+<h1 align="center">What´s up I´m Yudai, happy to connect ✌️</h1>
 <h3 align="center">Frontend developer and UI designer. Love creating products that match usuability and accessibility for end users.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
