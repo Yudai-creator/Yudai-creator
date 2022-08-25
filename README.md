@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudai-creator&show_icons=true&locale=en" alt="yudai-creator" /></p>
 
 
-
+> "Keep moving forward"
 
 <!--
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
@@ -51,6 +51,7 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+<!--
 - [@creator_yudai: The big truth 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd110e9668d56ae0c2167a11893bc367)
 - [@creator_yudai: CALLING ALL SENIORS 🚨What does it make a good Frontend Developer?What is the must have knowledge?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd10079464d76be6c51a7310833cc36b)
 - [@VittoStack: Building an online presence is the best investment you can make as a developerI said this 1 year ago. Today:- I&#39;ve built a community of 300k+ devs- Landed a job in the US- Published a book- Became an international speakerHere&#39;s how you can do the same &lpar;without luck&rpar; ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2936a6f5cdd1931b868d28d4f61eb1492ac7df6df5a06e78d81d0d9069d269e6c1177e1188)
@@ -61,7 +62,7 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 
 ##
 
-> "Keep moving forward"
+
 -->
 
 
