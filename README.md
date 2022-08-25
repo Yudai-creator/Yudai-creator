@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
 
 - 🔭 I’m currently working on **My design tools**
 
 - 👨‍💻 All of my projects are available at [https://yudaicreator.com](https://yudaicreator.com)
 
-- 📝 I regularly write articles on [https://twitter.com/creator_yudai](https://twitter.com/creator_yudai)
+- 📝 I regularly write on [https://twitter.com/creator_yudai](https://twitter.com/creator_yudai)
 
 - 📫 How to reach me **yudaipx77@gmail.com**
 
@@ -32,8 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudai-creator&show_icons=true&locale=en" alt="yudai-creator" /></p>
 
-
-> "Keep moving forward"
 
 <!--
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
@@ -59,11 +57,6 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 - [@creator_yudai: Okay, time to go back on the grind ⚡️All these days, apart from celebrating 😅, it has helped me to re-think my goals and what I want to do.Find new ways to bring value to this community is one of those goals.I hope you stay with me to share those values 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd150c9b60d66ae1cb1a7a158e3ecd6a)
 <!-- TWITTER:END -->
 
-
-##
-
-
--->
 
 
 
