@@ -49,12 +49,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
-<!--
+- [@creator_yudai: Good day, good people ❤️While ago I gathered all my threads in a github repo, and share it in public.The repo got 20 stars 🌟Today I&#39;m building a small project on top of that repo to give more life to this threads, will share some updates soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd1c0c9061dc60e2c51b7911883cc363)
 - [@creator_yudai: The big truth 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd110e9668d56ae0c2167a11893bc367)
 - [@creator_yudai: CALLING ALL SENIORS 🚨What does it make a good Frontend Developer?What is the must have knowledge?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd10079464d76be6c51a7310833cc36b)
 - [@VittoStack: Building an online presence is the best investment you can make as a developerI said this 1 year ago. Today:- I&#39;ve built a community of 300k+ devs- Landed a job in the US- Published a book- Became an international speakerHere&#39;s how you can do the same &lpar;without luck&rpar; ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2936a6f5cdd1931b868d28d4f61eb1492ac7df6df5a06e78d81d0d9069d269e6c1177e1188)
 - [@creator_yudai: Glad to have you back @FrancescoCiull4 and this is nice surprise 🤩Sharing this one for everyone to know that this is going an awesome Space to be participant 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd15099a67dc60e1c0167f1c8933c465)
-- [@creator_yudai: Okay, time to go back on the grind ⚡️All these days, apart from celebrating 😅, it has helped me to re-think my goals and what I want to do.Find new ways to bring value to this community is one of those goals.I hope you stay with me to share those values 💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd150c9b60d66ae1cb1a7a158e3ecd6a)
 <!-- TWITTER:END -->
 
 
