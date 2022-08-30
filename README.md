@@ -49,11 +49,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+- [@creator_yudai: Coffee chat with @GrahamTheDev 🙌Finally we took the damn screeshot 😂It is always awesome to talk with you my friend, thank you so much for all the tips and advices.Let&#39;s keep doing this from time to time.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb170e9160d46ee2c51172158e3dc062)
+- [@creator_yudai: Awesome to interact with you face to face my friend 🙌You are super cool 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb16099365dd69e6c711721d8238c363)
+- [@creator_yudai: Wow waking up with 3k followers, that’s incredible 🤩Thank you so much 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc11099165d569e6c61a7c148839c661)
 - [@creator_yudai: A few months ago, I had a broken laptop, quit college and no job.Now I got a job and bought myself a nice computer 💻 Thank you Javascript 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc15079560d369e8c61b781c893dc065)
 - [@creator_yudai: Good day, good people ❤️While ago I gathered all my threads in a github repo, and share it in public.The repo got 20 stars 🌟Today I&#39;m building a small project on top of that repo to give more life to this threads, will share some updates soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd1c0c9061dc60e2c51b7911883cc363)
-- [@creator_yudai: The big truth 👌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd110e9668d56ae0c2167a11893bc367)
-- [@creator_yudai: CALLING ALL SENIORS 🚨What does it make a good Frontend Developer?What is the must have knowledge?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd10079464d76be6c51a7310833cc36b)
-- [@VittoStack: Building an online presence is the best investment you can make as a developerI said this 1 year ago. Today:- I&#39;ve built a community of 300k+ devs- Landed a job in the US- Published a book- Became an international speakerHere&#39;s how you can do the same &lpar;without luck&rpar; ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2936a6f5cdd1931b868d28d4f61eb1492ac7df6df5a06e78d81d0d9069d269e6c1177e1188)
 <!-- TWITTER:END -->
 
 
