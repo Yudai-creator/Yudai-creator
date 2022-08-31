@@ -1,4 +1,4 @@
-![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
+![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github.png)
 
 <h1 align="center">What´s up I´m Yudai, happy to connect ✌️</h1>
 <h3 align="center">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences.</h3>
