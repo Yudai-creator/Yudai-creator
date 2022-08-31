@@ -49,11 +49,11 @@ Technologies and Languages I use most →  ![js](https://github.com/Yudai-creato
 ### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
 
 <!-- TWITTER:START -->
+- [@creator_yudai: I replied to a lot of DMs today, always happy to help ❤️Most of them ask the two same questions: - How to get a job without a degree?- How to grow on twitter to get more opportunities?Don&#39;t keep this info in the DMs, I&#39;ll prepare some content talking about my experience.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb12089a62d76ae8ca157914893ec363)
 - [@creator_yudai: Coffee chat with @GrahamTheDev 🙌Finally we took the damn screeshot 😂It is always awesome to talk with you my friend, thank you so much for all the tips and advices.Let&#39;s keep doing this from time to time.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb170e9160d46ee2c51172158e3dc062)
 - [@creator_yudai: Awesome to interact with you face to face my friend 🙌You are super cool 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb16099365dd69e6c711721d8238c363)
 - [@creator_yudai: Wow waking up with 3k followers, that’s incredible 🤩Thank you so much 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc11099165d569e6c61a7c148839c661)
 - [@creator_yudai: A few months ago, I had a broken laptop, quit college and no job.Now I got a job and bought myself a nice computer 💻 Thank you Javascript 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc15079560d369e8c61b781c893dc065)
-- [@creator_yudai: Good day, good people ❤️While ago I gathered all my threads in a github repo, and share it in public.The repo got 20 stars 🌟Today I&#39;m building a small project on top of that repo to give more life to this threads, will share some updates soon.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdd1c0c9061dc60e2c51b7911883cc363)
 <!-- TWITTER:END -->
 
 
