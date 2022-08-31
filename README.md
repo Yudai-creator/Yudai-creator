@@ -1,7 +1,7 @@
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
 
 <h1 align="center">What´s up I´m Yudai, happy to connect ✌️</h1>
-<h3 align="center">Frontend developer and UI designer. Love creating products that match usuability and accessibility for end users.</h3>
+<h3 align="center">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
@@ -33,28 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudai-creator&show_icons=true&locale=en" alt="yudai-creator" /></p>
 
 
-<!--
-![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github%20banner.png)
-
-### Frontend developer and UI designer. Capable of doing the whole process from idea, UI/UX design, to development. Love creating products that match usuability and accessibility for end users.
-
-##
 
 
-Technologies and Languages I use most →  ![js](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/javascript-logo.svg)    ![vue](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/vue-logo.svg)    ![react](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/react-logo.svg)    ![sass](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/sass-logo.svg)    ![tailwind](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/tailwind-logo.svg)    ![netlify](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/netlify-logo.svg)    ![git](https://github.com/Yudai-creator/Yudai-creator/blob/master/logos/git-logo.svg)
 
-##
-
-
-### I document my learnings on Tech Twitter as [@creator_yudai](https://twitter.com/creator_yudai), See my latest tweets ↓
-
-<!-- TWITTER:START -->
-- [@creator_yudai: I replied to a lot of DMs today, always happy to help ❤️Most of them ask the two same questions: - How to get a job without a degree?- How to grow on twitter to get more opportunities?Don&#39;t keep this info in the DMs, I&#39;ll prepare some content talking about my experience.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb12089a62d76ae8ca157914893ec363)
-- [@creator_yudai: Coffee chat with @GrahamTheDev 🙌Finally we took the damn screeshot 😂It is always awesome to talk with you my friend, thank you so much for all the tips and advices.Let&#39;s keep doing this from time to time.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb170e9160d46ee2c51172158e3dc062)
-- [@creator_yudai: Awesome to interact with you face to face my friend 🙌You are super cool 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdb16099365dd69e6c711721d8238c363)
-- [@creator_yudai: Wow waking up with 3k followers, that’s incredible 🤩Thank you so much 💙💙](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc11099165d569e6c61a7c148839c661)
-- [@creator_yudai: A few months ago, I had a broken laptop, quit college and no job.Now I got a job and bought myself a nice computer 💻 Thank you Javascript 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c2db7e0d6ed95259c9363c6eb50b648389c9b2beca36f7bdc15079560d369e8c61b781c893dc065)
-<!-- TWITTER:END -->
 
 
 
