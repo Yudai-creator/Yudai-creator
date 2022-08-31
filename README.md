@@ -1,7 +1,7 @@
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github.png)
 
 <h1 align="center">What´s up I´m Yudai, happy to connect ✌️</h1>
-<h3 align="center">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences.</h3>
+<h3 align="center">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences. Documenting my learnings on Twitter</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
