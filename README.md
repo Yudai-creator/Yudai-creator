@@ -1,11 +1,11 @@
 ![intro](https://github.com/Yudai-creator/Yudai-creator/blob/master/github.png)
 
-<h1 align="center">What´s up I´m Yudai, happy to connect ✌️</h1>
-<h3 align="center">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences. Documenting my learnings on Twitter</h3>
+<h1 align="left">What´s up I´m Yudai, happy to connect ✌️</h1>
+<h3 align="left">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences. Documenting my learnings on Twitter</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
 
 - 🔭 I’m currently working on **My design tools**
 
