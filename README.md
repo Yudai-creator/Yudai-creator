@@ -1,5 +1,5 @@
-<h1 align="left">What´s up I´m Yudai, happy to connect ✌️</h1>
-<h3 align="left">I'm a Frontend Developer who uses React or Vue to deliver beautifully designed, user-centric UI/UX experiences. Documenting my learnings on Twitter</h3>
+<h1 align="left">I´m Yudai Heber ✌️</h1>
+<h3 align="left">Frontend developer with UI/UX skills. I have been building websites using modern javascript frameworks like Vue and React, most of them projects carefully designed by myself on Figma, creating usable and visually appealing user interfaces. Capable of recreating client needs, from raw ideas to high-fidelity products.</h3>
 
 <p align="left"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
 
