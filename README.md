@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
-- 📝 I regularly write on [https://twitter.com/creator_yudai](https://twitter.com/creator_yudai)
-
 - ⚡ Fun fact **I know how to solve problems duh**
 
 <h3 align="left">Languages and Tools:</h3>
