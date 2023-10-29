@@ -1,7 +1,4 @@
 <h1 align="left">I´m Yudai Heber ✌️</h1>
-<h3 align="left">Frontend developer with UI/UX skills. I have been building websites using modern javascript frameworks like Vue and React, most of them projects carefully designed by myself on Figma, creating usable and visually appealing user interfaces. Capable of recreating client needs, from raw ideas to high-fidelity products.</h3>
-
-<p align="left"> <a href="https://twitter.com/creator_yudai" target="blank"><img src="https://img.shields.io/twitter/follow/creator_yudai?logo=twitter&style=for-the-badge" alt="creator_yudai" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudai-creator" alt="yudai-creator" /></a> </p>
 
